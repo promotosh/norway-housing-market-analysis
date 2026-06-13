@@ -1,0 +1,2026 @@
+region,quarter,year,q,dwelling_type,price_index
+The whole country,2015K1,2015,1,Total,98.3
+The whole country,2015K1,2015,1,Detached houses,98.1
+The whole country,2015K1,2015,1,Row houses,98.8
+The whole country,2015K1,2015,1,Multi-dwelling,98.3
+The whole country,2015K2,2015,2,Total,101.5
+The whole country,2015K2,2015,2,Detached houses,102.1
+The whole country,2015K2,2015,2,Row houses,101.3
+The whole country,2015K2,2015,2,Multi-dwelling,100.3
+The whole country,2015K3,2015,3,Total,101.1
+The whole country,2015K3,2015,3,Detached houses,101.3
+The whole country,2015K3,2015,3,Row houses,100.5
+The whole country,2015K3,2015,3,Multi-dwelling,101.2
+The whole country,2015K4,2015,4,Total,99.1
+The whole country,2015K4,2015,4,Detached houses,98.5
+The whole country,2015K4,2015,4,Row houses,99.5
+The whole country,2015K4,2015,4,Multi-dwelling,100.3
+The whole country,2016K1,2016,1,Total,102.8
+The whole country,2016K1,2016,1,Detached houses,102.2
+The whole country,2016K1,2016,1,Row houses,103.3
+The whole country,2016K1,2016,1,Multi-dwelling,104.2
+The whole country,2016K2,2016,2,Total,107.1
+The whole country,2016K2,2016,2,Detached houses,106.5
+The whole country,2016K2,2016,2,Row houses,106.8
+The whole country,2016K2,2016,2,Multi-dwelling,108.7
+The whole country,2016K3,2016,3,Total,109.1
+The whole country,2016K3,2016,3,Detached houses,106.9
+The whole country,2016K3,2016,3,Row houses,109.6
+The whole country,2016K3,2016,3,Multi-dwelling,114.0
+The whole country,2016K4,2016,4,Total,109.1
+The whole country,2016K4,2016,4,Detached houses,106.0
+The whole country,2016K4,2016,4,Row houses,109.3
+The whole country,2016K4,2016,4,Multi-dwelling,116.2
+The whole country,2017K1,2017,1,Total,113.2
+The whole country,2017K1,2017,1,Detached houses,109.8
+The whole country,2017K1,2017,1,Row houses,113.6
+The whole country,2017K1,2017,1,Multi-dwelling,121.0
+The whole country,2017K2,2017,2,Total,114.5
+The whole country,2017K2,2017,2,Detached houses,112.4
+The whole country,2017K2,2017,2,Row houses,114.7
+The whole country,2017K2,2017,2,Multi-dwelling,119.2
+The whole country,2017K3,2017,3,Total,111.8
+The whole country,2017K3,2017,3,Detached houses,110.0
+The whole country,2017K3,2017,3,Row houses,112.4
+The whole country,2017K3,2017,3,Multi-dwelling,115.5
+The whole country,2017K4,2017,4,Total,109.9
+The whole country,2017K4,2017,4,Detached houses,108.3
+The whole country,2017K4,2017,4,Row houses,110.4
+The whole country,2017K4,2017,4,Multi-dwelling,112.7
+The whole country,2018K1,2018,1,Total,112.0
+The whole country,2018K1,2018,1,Detached houses,110.2
+The whole country,2018K1,2018,1,Row houses,112.5
+The whole country,2018K1,2018,1,Multi-dwelling,115.4
+The whole country,2018K2,2018,2,Total,116.4
+The whole country,2018K2,2018,2,Detached houses,115.2
+The whole country,2018K2,2018,2,Row houses,116.6
+The whole country,2018K2,2018,2,Multi-dwelling,119.2
+The whole country,2018K3,2018,3,Total,115.1
+The whole country,2018K3,2018,3,Detached houses,113.0
+The whole country,2018K3,2018,3,Row houses,115.5
+The whole country,2018K3,2018,3,Multi-dwelling,119.3
+The whole country,2018K4,2018,4,Total,112.4
+The whole country,2018K4,2018,4,Detached houses,109.8
+The whole country,2018K4,2018,4,Row houses,113.4
+The whole country,2018K4,2018,4,Multi-dwelling,117.4
+The whole country,2019K1,2019,1,Total,115.4
+The whole country,2019K1,2019,1,Detached houses,113.2
+The whole country,2019K1,2019,1,Row houses,115.9
+The whole country,2019K1,2019,1,Multi-dwelling,120.0
+The whole country,2019K2,2019,2,Total,118.7
+The whole country,2019K2,2019,2,Detached houses,117.3
+The whole country,2019K2,2019,2,Row houses,118.3
+The whole country,2019K2,2019,2,Multi-dwelling,122.3
+The whole country,2019K3,2019,3,Total,117.8
+The whole country,2019K3,2019,3,Detached houses,115.8
+The whole country,2019K3,2019,3,Row houses,117.8
+The whole country,2019K3,2019,3,Multi-dwelling,122.4
+The whole country,2019K4,2019,4,Total,115.3
+The whole country,2019K4,2019,4,Detached houses,112.7
+The whole country,2019K4,2019,4,Row houses,115.4
+The whole country,2019K4,2019,4,Multi-dwelling,121.0
+The whole country,2020K1,2020,1,Total,117.6
+The whole country,2020K1,2020,1,Detached houses,114.3
+The whole country,2020K1,2020,1,Row houses,118.8
+The whole country,2020K1,2020,1,Multi-dwelling,123.8
+The whole country,2020K2,2020,2,Total,121.9
+The whole country,2020K2,2020,2,Detached houses,120.5
+The whole country,2020K2,2020,2,Row houses,121.4
+The whole country,2020K2,2020,2,Multi-dwelling,125.5
+The whole country,2020K3,2020,3,Total,123.6
+The whole country,2020K3,2020,3,Detached houses,120.8
+The whole country,2020K3,2020,3,Row houses,124.0
+The whole country,2020K3,2020,3,Multi-dwelling,129.4
+The whole country,2020K4,2020,4,Total,124.0
+The whole country,2020K4,2020,4,Detached houses,120.9
+The whole country,2020K4,2020,4,Row houses,123.8
+The whole country,2020K4,2020,4,Multi-dwelling,131.3
+The whole country,2021K1,2021,1,Total,130.7
+The whole country,2021K1,2021,1,Detached houses,127.1
+The whole country,2021K1,2021,1,Row houses,130.9
+The whole country,2021K1,2021,1,Multi-dwelling,138.6
+The whole country,2021K2,2021,2,Total,137.0
+The whole country,2021K2,2021,2,Detached houses,136.1
+The whole country,2021K2,2021,2,Row houses,136.4
+The whole country,2021K2,2021,2,Multi-dwelling,139.8
+The whole country,2021K3,2021,3,Total,136.5
+The whole country,2021K3,2021,3,Detached houses,134.6
+The whole country,2021K3,2021,3,Row houses,137.5
+The whole country,2021K3,2021,3,Multi-dwelling,139.8
+The whole country,2021K4,2021,4,Total,133.9
+The whole country,2021K4,2021,4,Detached houses,131.6
+The whole country,2021K4,2021,4,Row houses,134.2
+The whole country,2021K4,2021,4,Multi-dwelling,138.9
+The whole country,2022K1,2022,1,Total,140.1
+The whole country,2022K1,2022,1,Detached houses,136.2
+The whole country,2022K1,2022,1,Row houses,142.3
+The whole country,2022K1,2022,1,Multi-dwelling,146.7
+The whole country,2022K2,2022,2,Total,145.7
+The whole country,2022K2,2022,2,Detached houses,144.5
+The whole country,2022K2,2022,2,Row houses,145.9
+The whole country,2022K2,2022,2,Multi-dwelling,148.8
+The whole country,2022K3,2022,3,Total,143.1
+The whole country,2022K3,2022,3,Detached houses,140.5
+The whole country,2022K3,2022,3,Row houses,143.1
+The whole country,2022K3,2022,3,Multi-dwelling,148.9
+The whole country,2022K4,2022,4,Total,137.4
+The whole country,2022K4,2022,4,Detached houses,134.7
+The whole country,2022K4,2022,4,Row houses,138.1
+The whole country,2022K4,2022,4,Multi-dwelling,143.1
+The whole country,2023K1,2023,1,Total,140.0
+The whole country,2023K1,2023,1,Detached houses,136.2
+The whole country,2023K1,2023,1,Row houses,141.2
+The whole country,2023K1,2023,1,Multi-dwelling,147.5
+The whole country,2023K2,2023,2,Total,145.5
+The whole country,2023K2,2023,2,Detached houses,143.4
+The whole country,2023K2,2023,2,Row houses,144.2
+The whole country,2023K2,2023,2,Multi-dwelling,151.6
+The whole country,2023K3,2023,3,Total,141.3
+The whole country,2023K3,2023,3,Detached houses,137.7
+The whole country,2023K3,2023,3,Row houses,142.1
+The whole country,2023K3,2023,3,Multi-dwelling,148.5
+The whole country,2023K4,2023,4,Total,136.4
+The whole country,2023K4,2023,4,Detached houses,132.2
+The whole country,2023K4,2023,4,Row houses,136.8
+The whole country,2023K4,2023,4,Multi-dwelling,145.4
+The whole country,2024K1,2024,1,Total,141.7
+The whole country,2024K1,2024,1,Detached houses,137.3
+The whole country,2024K1,2024,1,Row houses,142.5
+The whole country,2024K1,2024,1,Multi-dwelling,150.6
+The whole country,2024K2,2024,2,Total,147.7
+The whole country,2024K2,2024,2,Detached houses,144.5
+The whole country,2024K2,2024,2,Row houses,146.9
+The whole country,2024K2,2024,2,Multi-dwelling,155.6
+The whole country,2024K3,2024,3,Total,145.9
+The whole country,2024K3,2024,3,Detached houses,141.6
+The whole country,2024K3,2024,3,Row houses,146.2
+The whole country,2024K3,2024,3,Multi-dwelling,155.1
+The whole country,2024K4,2024,4,Total,143.0
+The whole country,2024K4,2024,4,Detached houses,137.4
+The whole country,2024K4,2024,4,Row houses,144.3
+The whole country,2024K4,2024,4,Multi-dwelling,154.3
+The whole country,2025K1,2025,1,Total,150.9
+The whole country,2025K1,2025,1,Detached houses,145.2
+The whole country,2025K1,2025,1,Row houses,150.9
+The whole country,2025K1,2025,1,Multi-dwelling,163.5
+The whole country,2025K2,2025,2,Total,154.4
+The whole country,2025K2,2025,2,Detached houses,150.2
+The whole country,2025K2,2025,2,Row houses,154.6
+The whole country,2025K2,2025,2,Multi-dwelling,163.6
+The whole country,2025K3,2025,3,Total,153.2
+The whole country,2025K3,2025,3,Detached houses,148.5
+The whole country,2025K3,2025,3,Row houses,153.7
+The whole country,2025K3,2025,3,Multi-dwelling,163.3
+The whole country,2025K4,2025,4,Total,151.5
+The whole country,2025K4,2025,4,Detached houses,146.1
+The whole country,2025K4,2025,4,Row houses,152.9
+The whole country,2025K4,2025,4,Multi-dwelling,162.1
+The whole country,2026K1,2026,1,Total,156.7
+The whole country,2026K1,2026,1,Detached houses,151.5
+The whole country,2026K1,2026,1,Row houses,157.7
+The whole country,2026K1,2026,1,Multi-dwelling,167.1
+Oslo including Bærum,2015K1,2015,1,Total,97.4
+Oslo including Bærum,2015K1,2015,1,Detached houses,97.8
+Oslo including Bærum,2015K1,2015,1,Row houses,97.7
+Oslo including Bærum,2015K1,2015,1,Multi-dwelling,97.0
+Oslo including Bærum,2015K2,2015,2,Total,100.0
+Oslo including Bærum,2015K2,2015,2,Detached houses,100.6
+Oslo including Bærum,2015K2,2015,2,Row houses,99.9
+Oslo including Bærum,2015K2,2015,2,Multi-dwelling,99.7
+Oslo including Bærum,2015K3,2015,3,Total,101.6
+Oslo including Bærum,2015K3,2015,3,Detached houses,101.9
+Oslo including Bærum,2015K3,2015,3,Row houses,100.8
+Oslo including Bærum,2015K3,2015,3,Multi-dwelling,101.9
+Oslo including Bærum,2015K4,2015,4,Total,101.0
+Oslo including Bærum,2015K4,2015,4,Detached houses,99.7
+Oslo including Bærum,2015K4,2015,4,Row houses,101.6
+Oslo including Bærum,2015K4,2015,4,Multi-dwelling,101.4
+Oslo including Bærum,2016K1,2016,1,Total,106.5
+Oslo including Bærum,2016K1,2016,1,Detached houses,106.8
+Oslo including Bærum,2016K1,2016,1,Row houses,105.4
+Oslo including Bærum,2016K1,2016,1,Multi-dwelling,106.9
+Oslo including Bærum,2016K2,2016,2,Total,112.7
+Oslo including Bærum,2016K2,2016,2,Detached houses,112.5
+Oslo including Bærum,2016K2,2016,2,Row houses,111.1
+Oslo including Bærum,2016K2,2016,2,Multi-dwelling,113.3
+Oslo including Bærum,2016K3,2016,3,Total,119.9
+Oslo including Bærum,2016K3,2016,3,Detached houses,114.9
+Oslo including Bærum,2016K3,2016,3,Row houses,118.9
+Oslo including Bærum,2016K3,2016,3,Multi-dwelling,122.0
+Oslo including Bærum,2016K4,2016,4,Total,122.9
+Oslo including Bærum,2016K4,2016,4,Detached houses,116.9
+Oslo including Bærum,2016K4,2016,4,Row houses,120.0
+Oslo including Bærum,2016K4,2016,4,Multi-dwelling,126.1
+Oslo including Bærum,2017K1,2017,1,Total,128.9
+Oslo including Bærum,2017K1,2017,1,Detached houses,124.7
+Oslo including Bærum,2017K1,2017,1,Row houses,125.4
+Oslo including Bærum,2017K1,2017,1,Multi-dwelling,131.5
+Oslo including Bærum,2017K2,2017,2,Total,127.4
+Oslo including Bærum,2017K2,2017,2,Detached houses,125.9
+Oslo including Bærum,2017K2,2017,2,Row houses,127.6
+Oslo including Bærum,2017K2,2017,2,Multi-dwelling,127.3
+Oslo including Bærum,2017K3,2017,3,Total,122.2
+Oslo including Bærum,2017K3,2017,3,Detached houses,121.3
+Oslo including Bærum,2017K3,2017,3,Row houses,122.9
+Oslo including Bærum,2017K3,2017,3,Multi-dwelling,121.5
+Oslo including Bærum,2017K4,2017,4,Total,119.2
+Oslo including Bærum,2017K4,2017,4,Detached houses,118.5
+Oslo including Bærum,2017K4,2017,4,Row houses,121.1
+Oslo including Bærum,2017K4,2017,4,Multi-dwelling,117.9
+Oslo including Bærum,2018K1,2018,1,Total,122.6
+Oslo including Bærum,2018K1,2018,1,Detached houses,123.1
+Oslo including Bærum,2018K1,2018,1,Row houses,123.5
+Oslo including Bærum,2018K1,2018,1,Multi-dwelling,121.4
+Oslo including Bærum,2018K2,2018,2,Total,127.9
+Oslo including Bærum,2018K2,2018,2,Detached houses,129.2
+Oslo including Bærum,2018K2,2018,2,Row houses,128.5
+Oslo including Bærum,2018K2,2018,2,Multi-dwelling,126.4
+Oslo including Bærum,2018K3,2018,3,Total,127.1
+Oslo including Bærum,2018K3,2018,3,Detached houses,127.0
+Oslo including Bærum,2018K3,2018,3,Row houses,126.7
+Oslo including Bærum,2018K3,2018,3,Multi-dwelling,126.7
+Oslo including Bærum,2018K4,2018,4,Total,124.5
+Oslo including Bærum,2018K4,2018,4,Detached houses,123.8
+Oslo including Bærum,2018K4,2018,4,Row houses,123.4
+Oslo including Bærum,2018K4,2018,4,Multi-dwelling,124.6
+Oslo including Bærum,2019K1,2019,1,Total,128.3
+Oslo including Bærum,2019K1,2019,1,Detached houses,129.1
+Oslo including Bærum,2019K1,2019,1,Row houses,128.4
+Oslo including Bærum,2019K1,2019,1,Multi-dwelling,127.2
+Oslo including Bærum,2019K2,2019,2,Total,131.3
+Oslo including Bærum,2019K2,2019,2,Detached houses,132.4
+Oslo including Bærum,2019K2,2019,2,Row houses,131.1
+Oslo including Bærum,2019K2,2019,2,Multi-dwelling,130.1
+Oslo including Bærum,2019K3,2019,3,Total,131.8
+Oslo including Bærum,2019K3,2019,3,Detached houses,132.3
+Oslo including Bærum,2019K3,2019,3,Row houses,132.3
+Oslo including Bærum,2019K3,2019,3,Multi-dwelling,130.5
+Oslo including Bærum,2019K4,2019,4,Total,130.2
+Oslo including Bærum,2019K4,2019,4,Detached houses,132.8
+Oslo including Bærum,2019K4,2019,4,Row houses,128.6
+Oslo including Bærum,2019K4,2019,4,Multi-dwelling,129.1
+Oslo including Bærum,2020K1,2020,1,Total,132.2
+Oslo including Bærum,2020K1,2020,1,Detached houses,130.7
+Oslo including Bærum,2020K1,2020,1,Row houses,130.9
+Oslo including Bærum,2020K1,2020,1,Multi-dwelling,132.5
+Oslo including Bærum,2020K2,2020,2,Total,136.1
+Oslo including Bærum,2020K2,2020,2,Detached houses,139.4
+Oslo including Bærum,2020K2,2020,2,Row houses,135.2
+Oslo including Bærum,2020K2,2020,2,Multi-dwelling,134.3
+Oslo including Bærum,2020K3,2020,3,Total,138.2
+Oslo including Bærum,2020K3,2020,3,Detached houses,136.1
+Oslo including Bærum,2020K3,2020,3,Row houses,135.8
+Oslo including Bærum,2020K3,2020,3,Multi-dwelling,139.2
+Oslo including Bærum,2020K4,2020,4,Total,142.6
+Oslo including Bærum,2020K4,2020,4,Detached houses,146.1
+Oslo including Bærum,2020K4,2020,4,Row houses,138.2
+Oslo including Bærum,2020K4,2020,4,Multi-dwelling,142.4
+Oslo including Bærum,2021K1,2021,1,Total,150.5
+Oslo including Bærum,2021K1,2021,1,Detached houses,148.2
+Oslo including Bærum,2021K1,2021,1,Row houses,147.6
+Oslo including Bærum,2021K1,2021,1,Multi-dwelling,151.7
+Oslo including Bærum,2021K2,2021,2,Total,153.9
+Oslo including Bærum,2021K2,2021,2,Detached houses,156.2
+Oslo including Bærum,2021K2,2021,2,Row houses,156.2
+Oslo including Bærum,2021K2,2021,2,Multi-dwelling,151.0
+Oslo including Bærum,2021K3,2021,3,Total,152.7
+Oslo including Bærum,2021K3,2021,3,Detached houses,153.1
+Oslo including Bærum,2021K3,2021,3,Row houses,154.9
+Oslo including Bærum,2021K3,2021,3,Multi-dwelling,150.5
+Oslo including Bærum,2021K4,2021,4,Total,151.2
+Oslo including Bærum,2021K4,2021,4,Detached houses,155.1
+Oslo including Bærum,2021K4,2021,4,Row houses,150.0
+Oslo including Bærum,2021K4,2021,4,Multi-dwelling,149.3
+Oslo including Bærum,2022K1,2022,1,Total,159.4
+Oslo including Bærum,2022K1,2022,1,Detached houses,156.2
+Oslo including Bærum,2022K1,2022,1,Row houses,161.3
+Oslo including Bærum,2022K1,2022,1,Multi-dwelling,158.7
+Oslo including Bærum,2022K2,2022,2,Total,162.7
+Oslo including Bærum,2022K2,2022,2,Detached houses,162.8
+Oslo including Bærum,2022K2,2022,2,Row houses,164.5
+Oslo including Bærum,2022K2,2022,2,Multi-dwelling,160.8
+Oslo including Bærum,2022K3,2022,3,Total,160.1
+Oslo including Bærum,2022K3,2022,3,Detached houses,157.6
+Oslo including Bærum,2022K3,2022,3,Row houses,158.3
+Oslo including Bærum,2022K3,2022,3,Multi-dwelling,160.8
+Oslo including Bærum,2022K4,2022,4,Total,153.5
+Oslo including Bærum,2022K4,2022,4,Detached houses,155.4
+Oslo including Bærum,2022K4,2022,4,Row houses,151.9
+Oslo including Bærum,2022K4,2022,4,Multi-dwelling,152.4
+Oslo including Bærum,2023K1,2023,1,Total,157.0
+Oslo including Bærum,2023K1,2023,1,Detached houses,154.2
+Oslo including Bærum,2023K1,2023,1,Row houses,153.3
+Oslo including Bærum,2023K1,2023,1,Multi-dwelling,158.8
+Oslo including Bærum,2023K2,2023,2,Total,161.6
+Oslo including Bærum,2023K2,2023,2,Detached houses,158.3
+Oslo including Bærum,2023K2,2023,2,Row houses,159.4
+Oslo including Bærum,2023K2,2023,2,Multi-dwelling,162.9
+Oslo including Bærum,2023K3,2023,3,Total,157.3
+Oslo including Bærum,2023K3,2023,3,Detached houses,151.0
+Oslo including Bærum,2023K3,2023,3,Row houses,154.9
+Oslo including Bærum,2023K3,2023,3,Multi-dwelling,159.8
+Oslo including Bærum,2023K4,2023,4,Total,153.8
+Oslo including Bærum,2023K4,2023,4,Detached houses,148.9
+Oslo including Bærum,2023K4,2023,4,Row houses,150.3
+Oslo including Bærum,2023K4,2023,4,Multi-dwelling,156.3
+Oslo including Bærum,2024K1,2024,1,Total,158.9
+Oslo including Bærum,2024K1,2024,1,Detached houses,151.7
+Oslo including Bærum,2024K1,2024,1,Row houses,154.9
+Oslo including Bærum,2024K1,2024,1,Multi-dwelling,162.4
+Oslo including Bærum,2024K2,2024,2,Total,165.6
+Oslo including Bærum,2024K2,2024,2,Detached houses,160.0
+Oslo including Bærum,2024K2,2024,2,Row houses,162.3
+Oslo including Bærum,2024K2,2024,2,Multi-dwelling,168.2
+Oslo including Bærum,2024K3,2024,3,Total,164.9
+Oslo including Bærum,2024K3,2024,3,Detached houses,159.4
+Oslo including Bærum,2024K3,2024,3,Row houses,161.1
+Oslo including Bærum,2024K3,2024,3,Multi-dwelling,167.7
+Oslo including Bærum,2024K4,2024,4,Total,162.1
+Oslo including Bærum,2024K4,2024,4,Detached houses,155.3
+Oslo including Bærum,2024K4,2024,4,Row houses,156.6
+Oslo including Bærum,2024K4,2024,4,Multi-dwelling,166.2
+Oslo including Bærum,2025K1,2025,1,Total,172.2
+Oslo including Bærum,2025K1,2025,1,Detached houses,165.9
+Oslo including Bærum,2025K1,2025,1,Row houses,164.4
+Oslo including Bærum,2025K1,2025,1,Multi-dwelling,177.1
+Oslo including Bærum,2025K2,2025,2,Total,172.7
+Oslo including Bærum,2025K2,2025,2,Detached houses,165.3
+Oslo including Bærum,2025K2,2025,2,Row houses,169.7
+Oslo including Bærum,2025K2,2025,2,Multi-dwelling,175.7
+Oslo including Bærum,2025K3,2025,3,Total,170.3
+Oslo including Bærum,2025K3,2025,3,Detached houses,161.6
+Oslo including Bærum,2025K3,2025,3,Row houses,165.3
+Oslo including Bærum,2025K3,2025,3,Multi-dwelling,174.9
+Oslo including Bærum,2025K4,2025,4,Total,169.4
+Oslo including Bærum,2025K4,2025,4,Detached houses,161.1
+Oslo including Bærum,2025K4,2025,4,Row houses,166.4
+Oslo including Bærum,2025K4,2025,4,Multi-dwelling,172.9
+Oslo including Bærum,2026K1,2026,1,Total,174.2
+Oslo including Bærum,2026K1,2026,1,Detached houses,170.8
+Oslo including Bærum,2026K1,2026,1,Row houses,167.9
+Oslo including Bærum,2026K1,2026,1,Multi-dwelling,177.2
+Stavanger,2015K1,2015,1,Total,103.3
+Stavanger,2015K1,2015,1,Detached houses,102.6
+Stavanger,2015K1,2015,1,Row houses,103.6
+Stavanger,2015K1,2015,1,Multi-dwelling,104.5
+Stavanger,2015K2,2015,2,Total,101.8
+Stavanger,2015K2,2015,2,Detached houses,101.6
+Stavanger,2015K2,2015,2,Row houses,102.2
+Stavanger,2015K2,2015,2,Multi-dwelling,101.7
+Stavanger,2015K3,2015,3,Total,99.2
+Stavanger,2015K3,2015,3,Detached houses,100.6
+Stavanger,2015K3,2015,3,Row houses,97.3
+Stavanger,2015K3,2015,3,Multi-dwelling,98.7
+Stavanger,2015K4,2015,4,Total,95.7
+Stavanger,2015K4,2015,4,Detached houses,95.2
+Stavanger,2015K4,2015,4,Row houses,96.8
+Stavanger,2015K4,2015,4,Multi-dwelling,95.2
+Stavanger,2016K1,2016,1,Total,92.7
+Stavanger,2016K1,2016,1,Detached houses,91.8
+Stavanger,2016K1,2016,1,Row houses,92.9
+Stavanger,2016K1,2016,1,Multi-dwelling,94.6
+Stavanger,2016K2,2016,2,Total,93.8
+Stavanger,2016K2,2016,2,Detached houses,93.8
+Stavanger,2016K2,2016,2,Row houses,94.3
+Stavanger,2016K2,2016,2,Multi-dwelling,93.4
+Stavanger,2016K3,2016,3,Total,93.8
+Stavanger,2016K3,2016,3,Detached houses,93.3
+Stavanger,2016K3,2016,3,Row houses,93.3
+Stavanger,2016K3,2016,3,Multi-dwelling,96.2
+Stavanger,2016K4,2016,4,Total,96.1
+Stavanger,2016K4,2016,4,Detached houses,98.0
+Stavanger,2016K4,2016,4,Row houses,92.8
+Stavanger,2016K4,2016,4,Multi-dwelling,97.3
+Stavanger,2017K1,2017,1,Total,97.7
+Stavanger,2017K1,2017,1,Detached houses,97.2
+Stavanger,2017K1,2017,1,Row houses,97.8
+Stavanger,2017K1,2017,1,Multi-dwelling,98.9
+Stavanger,2017K2,2017,2,Total,100.3
+Stavanger,2017K2,2017,2,Detached houses,102.5
+Stavanger,2017K2,2017,2,Row houses,97.6
+Stavanger,2017K2,2017,2,Multi-dwelling,99.9
+Stavanger,2017K3,2017,3,Total,96.6
+Stavanger,2017K3,2017,3,Detached houses,94.5
+Stavanger,2017K3,2017,3,Row houses,98.2
+Stavanger,2017K3,2017,3,Multi-dwelling,99.3
+Stavanger,2017K4,2017,4,Total,99.7
+Stavanger,2017K4,2017,4,Detached houses,102.2
+Stavanger,2017K4,2017,4,Row houses,96.6
+Stavanger,2017K4,2017,4,Multi-dwelling,99.2
+Stavanger,2018K1,2018,1,Total,98.0
+Stavanger,2018K1,2018,1,Detached houses,97.1
+Stavanger,2018K1,2018,1,Row houses,98.8
+Stavanger,2018K1,2018,1,Multi-dwelling,98.8
+Stavanger,2018K2,2018,2,Total,99.2
+Stavanger,2018K2,2018,2,Detached houses,98.8
+Stavanger,2018K2,2018,2,Row houses,99.4
+Stavanger,2018K2,2018,2,Multi-dwelling,100.1
+Stavanger,2018K3,2018,3,Total,97.7
+Stavanger,2018K3,2018,3,Detached houses,98.2
+Stavanger,2018K3,2018,3,Row houses,96.3
+Stavanger,2018K3,2018,3,Multi-dwelling,99.0
+Stavanger,2018K4,2018,4,Total,96.4
+Stavanger,2018K4,2018,4,Detached houses,96.6
+Stavanger,2018K4,2018,4,Row houses,95.2
+Stavanger,2018K4,2018,4,Multi-dwelling,98.0
+Stavanger,2019K1,2019,1,Total,98.2
+Stavanger,2019K1,2019,1,Detached houses,98.0
+Stavanger,2019K1,2019,1,Row houses,98.4
+Stavanger,2019K1,2019,1,Multi-dwelling,98.4
+Stavanger,2019K2,2019,2,Total,100.9
+Stavanger,2019K2,2019,2,Detached houses,102.3
+Stavanger,2019K2,2019,2,Row houses,99.8
+Stavanger,2019K2,2019,2,Multi-dwelling,99.1
+Stavanger,2019K3,2019,3,Total,98.6
+Stavanger,2019K3,2019,3,Detached houses,100.0
+Stavanger,2019K3,2019,3,Row houses,96.7
+Stavanger,2019K3,2019,3,Multi-dwelling,98.4
+Stavanger,2019K4,2019,4,Total,93.3
+Stavanger,2019K4,2019,4,Detached houses,91.1
+Stavanger,2019K4,2019,4,Row houses,95.7
+Stavanger,2019K4,2019,4,Multi-dwelling,95.2
+Stavanger,2020K1,2020,1,Total,99.4
+Stavanger,2020K1,2020,1,Detached houses,100.1
+Stavanger,2020K1,2020,1,Row houses,98.4
+Stavanger,2020K1,2020,1,Multi-dwelling,99.4
+Stavanger,2020K2,2020,2,Total,101.4
+Stavanger,2020K2,2020,2,Detached houses,103.4
+Stavanger,2020K2,2020,2,Row houses,99.5
+Stavanger,2020K2,2020,2,Multi-dwelling,99.2
+Stavanger,2020K3,2020,3,Total,103.4
+Stavanger,2020K3,2020,3,Detached houses,102.3
+Stavanger,2020K3,2020,3,Row houses,106.2
+Stavanger,2020K3,2020,3,Multi-dwelling,102.1
+Stavanger,2020K4,2020,4,Total,102.6
+Stavanger,2020K4,2020,4,Detached houses,104.2
+Stavanger,2020K4,2020,4,Row houses,100.4
+Stavanger,2020K4,2020,4,Multi-dwelling,102.1
+Stavanger,2021K1,2021,1,Total,106.4
+Stavanger,2021K1,2021,1,Detached houses,106.9
+Stavanger,2021K1,2021,1,Row houses,106.3
+Stavanger,2021K1,2021,1,Multi-dwelling,105.4
+Stavanger,2021K2,2021,2,Total,111.8
+Stavanger,2021K2,2021,2,Detached houses,115.2
+Stavanger,2021K2,2021,2,Row houses,108.8
+Stavanger,2021K2,2021,2,Multi-dwelling,107.9
+Stavanger,2021K3,2021,3,Total,113.1
+Stavanger,2021K3,2021,3,Detached houses,117.4
+Stavanger,2021K3,2021,3,Row houses,108.7
+Stavanger,2021K3,2021,3,Multi-dwelling,109.3
+Stavanger,2021K4,2021,4,Total,112.4
+Stavanger,2021K4,2021,4,Detached houses,115.1
+Stavanger,2021K4,2021,4,Row houses,110.9
+Stavanger,2021K4,2021,4,Multi-dwelling,108.2
+Stavanger,2022K1,2022,1,Total,115.3
+Stavanger,2022K1,2022,1,Detached houses,117.8
+Stavanger,2022K1,2022,1,Row houses,112.4
+Stavanger,2022K1,2022,1,Multi-dwelling,113.4
+Stavanger,2022K2,2022,2,Total,119.0
+Stavanger,2022K2,2022,2,Detached houses,122.4
+Stavanger,2022K2,2022,2,Row houses,116.8
+Stavanger,2022K2,2022,2,Multi-dwelling,114.1
+Stavanger,2022K3,2022,3,Total,116.9
+Stavanger,2022K3,2022,3,Detached houses,119.0
+Stavanger,2022K3,2022,3,Row houses,114.3
+Stavanger,2022K3,2022,3,Multi-dwelling,115.5
+Stavanger,2022K4,2022,4,Total,113.8
+Stavanger,2022K4,2022,4,Detached houses,114.3
+Stavanger,2022K4,2022,4,Row houses,112.7
+Stavanger,2022K4,2022,4,Multi-dwelling,114.0
+Stavanger,2023K1,2023,1,Total,114.9
+Stavanger,2023K1,2023,1,Detached houses,112.1
+Stavanger,2023K1,2023,1,Row houses,117.2
+Stavanger,2023K1,2023,1,Multi-dwelling,118.9
+Stavanger,2023K2,2023,2,Total,121.9
+Stavanger,2023K2,2023,2,Detached houses,123.3
+Stavanger,2023K2,2023,2,Row houses,118.9
+Stavanger,2023K2,2023,2,Multi-dwelling,122.7
+Stavanger,2023K3,2023,3,Total,119.8
+Stavanger,2023K3,2023,3,Detached houses,118.7
+Stavanger,2023K3,2023,3,Row houses,121.7
+Stavanger,2023K3,2023,3,Multi-dwelling,120.1
+Stavanger,2023K4,2023,4,Total,116.0
+Stavanger,2023K4,2023,4,Detached houses,113.9
+Stavanger,2023K4,2023,4,Row houses,117.5
+Stavanger,2023K4,2023,4,Multi-dwelling,119.3
+Stavanger,2024K1,2024,1,Total,121.1
+Stavanger,2024K1,2024,1,Detached houses,119.2
+Stavanger,2024K1,2024,1,Row houses,119.2
+Stavanger,2024K1,2024,1,Multi-dwelling,128.6
+Stavanger,2024K2,2024,2,Total,126.3
+Stavanger,2024K2,2024,2,Detached houses,123.2
+Stavanger,2024K2,2024,2,Row houses,128.5
+Stavanger,2024K2,2024,2,Multi-dwelling,130.6
+Stavanger,2024K3,2024,3,Total,127.1
+Stavanger,2024K3,2024,3,Detached houses,123.8
+Stavanger,2024K3,2024,3,Row houses,128.6
+Stavanger,2024K3,2024,3,Multi-dwelling,132.9
+Stavanger,2024K4,2024,4,Total,124.6
+Stavanger,2024K4,2024,4,Detached houses,117.8
+Stavanger,2024K4,2024,4,Row houses,130.2
+Stavanger,2024K4,2024,4,Multi-dwelling,133.0
+Stavanger,2025K1,2025,1,Total,138.8
+Stavanger,2025K1,2025,1,Detached houses,135.0
+Stavanger,2025K1,2025,1,Row houses,138.8
+Stavanger,2025K1,2025,1,Multi-dwelling,147.5
+Stavanger,2025K2,2025,2,Total,143.8
+Stavanger,2025K2,2025,2,Detached houses,141.1
+Stavanger,2025K2,2025,2,Row houses,143.8
+Stavanger,2025K2,2025,2,Multi-dwelling,150.0
+Stavanger,2025K3,2025,3,Total,146.6
+Stavanger,2025K3,2025,3,Detached houses,143.7
+Stavanger,2025K3,2025,3,Row houses,148.2
+Stavanger,2025K3,2025,3,Multi-dwelling,150.8
+Stavanger,2025K4,2025,4,Total,147.2
+Stavanger,2025K4,2025,4,Detached houses,146.4
+Stavanger,2025K4,2025,4,Row houses,145.2
+Stavanger,2025K4,2025,4,Multi-dwelling,151.2
+Stavanger,2026K1,2026,1,Total,154.2
+Stavanger,2026K1,2026,1,Detached houses,149.8
+Stavanger,2026K1,2026,1,Row houses,155.6
+Stavanger,2026K1,2026,1,Multi-dwelling,161.4
+Bergen,2015K1,2015,1,Total,98.2
+Bergen,2015K1,2015,1,Detached houses,95.1
+Bergen,2015K1,2015,1,Row houses,99.7
+Bergen,2015K1,2015,1,Multi-dwelling,100.6
+Bergen,2015K2,2015,2,Total,101.9
+Bergen,2015K2,2015,2,Detached houses,102.5
+Bergen,2015K2,2015,2,Row houses,100.8
+Bergen,2015K2,2015,2,Multi-dwelling,102.1
+Bergen,2015K3,2015,3,Total,101.5
+Bergen,2015K3,2015,3,Detached houses,101.7
+Bergen,2015K3,2015,3,Row houses,102.1
+Bergen,2015K3,2015,3,Multi-dwelling,100.7
+Bergen,2015K4,2015,4,Total,98.4
+Bergen,2015K4,2015,4,Detached houses,100.6
+Bergen,2015K4,2015,4,Row houses,97.4
+Bergen,2015K4,2015,4,Multi-dwelling,96.6
+Bergen,2016K1,2016,1,Total,99.2
+Bergen,2016K1,2016,1,Detached houses,98.6
+Bergen,2016K1,2016,1,Row houses,100.9
+Bergen,2016K1,2016,1,Multi-dwelling,98.3
+Bergen,2016K2,2016,2,Total,101.6
+Bergen,2016K2,2016,2,Detached houses,102.8
+Bergen,2016K2,2016,2,Row houses,101.8
+Bergen,2016K2,2016,2,Multi-dwelling,100.2
+Bergen,2016K3,2016,3,Total,101.2
+Bergen,2016K3,2016,3,Detached houses,100.6
+Bergen,2016K3,2016,3,Row houses,102.5
+Bergen,2016K3,2016,3,Multi-dwelling,100.7
+Bergen,2016K4,2016,4,Total,101.5
+Bergen,2016K4,2016,4,Detached houses,101.3
+Bergen,2016K4,2016,4,Row houses,103.4
+Bergen,2016K4,2016,4,Multi-dwelling,100.3
+Bergen,2017K1,2017,1,Total,103.7
+Bergen,2017K1,2017,1,Detached houses,101.3
+Bergen,2017K1,2017,1,Row houses,105.6
+Bergen,2017K1,2017,1,Multi-dwelling,104.8
+Bergen,2017K2,2017,2,Total,105.7
+Bergen,2017K2,2017,2,Detached houses,105.5
+Bergen,2017K2,2017,2,Row houses,106.6
+Bergen,2017K2,2017,2,Multi-dwelling,105.2
+Bergen,2017K3,2017,3,Total,102.5
+Bergen,2017K3,2017,3,Detached houses,100.7
+Bergen,2017K3,2017,3,Row houses,104.2
+Bergen,2017K3,2017,3,Multi-dwelling,102.9
+Bergen,2017K4,2017,4,Total,99.4
+Bergen,2017K4,2017,4,Detached houses,98.9
+Bergen,2017K4,2017,4,Row houses,100.3
+Bergen,2017K4,2017,4,Multi-dwelling,99.2
+Bergen,2018K1,2018,1,Total,101.7
+Bergen,2018K1,2018,1,Detached houses,99.7
+Bergen,2018K1,2018,1,Row houses,104.4
+Bergen,2018K1,2018,1,Multi-dwelling,101.6
+Bergen,2018K2,2018,2,Total,105.5
+Bergen,2018K2,2018,2,Detached houses,105.6
+Bergen,2018K2,2018,2,Row houses,106.7
+Bergen,2018K2,2018,2,Multi-dwelling,104.4
+Bergen,2018K3,2018,3,Total,103.4
+Bergen,2018K3,2018,3,Detached houses,101.4
+Bergen,2018K3,2018,3,Row houses,106.6
+Bergen,2018K3,2018,3,Multi-dwelling,102.9
+Bergen,2018K4,2018,4,Total,100.9
+Bergen,2018K4,2018,4,Detached houses,98.6
+Bergen,2018K4,2018,4,Row houses,103.1
+Bergen,2018K4,2018,4,Multi-dwelling,101.5
+Bergen,2019K1,2019,1,Total,104.3
+Bergen,2019K1,2019,1,Detached houses,104.2
+Bergen,2019K1,2019,1,Row houses,104.3
+Bergen,2019K1,2019,1,Multi-dwelling,104.4
+Bergen,2019K2,2019,2,Total,106.7
+Bergen,2019K2,2019,2,Detached houses,106.3
+Bergen,2019K2,2019,2,Row houses,107.8
+Bergen,2019K2,2019,2,Multi-dwelling,106.3
+Bergen,2019K3,2019,3,Total,105.7
+Bergen,2019K3,2019,3,Detached houses,106.3
+Bergen,2019K3,2019,3,Row houses,105.5
+Bergen,2019K3,2019,3,Multi-dwelling,105.1
+Bergen,2019K4,2019,4,Total,105.1
+Bergen,2019K4,2019,4,Detached houses,106.0
+Bergen,2019K4,2019,4,Row houses,104.9
+Bergen,2019K4,2019,4,Multi-dwelling,104.2
+Bergen,2020K1,2020,1,Total,108.1
+Bergen,2020K1,2020,1,Detached houses,108.1
+Bergen,2020K1,2020,1,Row houses,109.2
+Bergen,2020K1,2020,1,Multi-dwelling,107.1
+Bergen,2020K2,2020,2,Total,110.5
+Bergen,2020K2,2020,2,Detached houses,114.2
+Bergen,2020K2,2020,2,Row houses,109.1
+Bergen,2020K2,2020,2,Multi-dwelling,107.6
+Bergen,2020K3,2020,3,Total,112.5
+Bergen,2020K3,2020,3,Detached houses,112.7
+Bergen,2020K3,2020,3,Row houses,112.5
+Bergen,2020K3,2020,3,Multi-dwelling,112.2
+Bergen,2020K4,2020,4,Total,112.9
+Bergen,2020K4,2020,4,Detached houses,115.0
+Bergen,2020K4,2020,4,Row houses,111.1
+Bergen,2020K4,2020,4,Multi-dwelling,112.0
+Bergen,2021K1,2021,1,Total,117.5
+Bergen,2021K1,2021,1,Detached houses,117.6
+Bergen,2021K1,2021,1,Row houses,118.5
+Bergen,2021K1,2021,1,Multi-dwelling,116.5
+Bergen,2021K2,2021,2,Total,122.4
+Bergen,2021K2,2021,2,Detached houses,124.9
+Bergen,2021K2,2021,2,Row houses,122.4
+Bergen,2021K2,2021,2,Multi-dwelling,119.5
+Bergen,2021K3,2021,3,Total,121.5
+Bergen,2021K3,2021,3,Detached houses,121.4
+Bergen,2021K3,2021,3,Row houses,123.5
+Bergen,2021K3,2021,3,Multi-dwelling,119.7
+Bergen,2021K4,2021,4,Total,120.0
+Bergen,2021K4,2021,4,Detached houses,119.1
+Bergen,2021K4,2021,4,Row houses,122.6
+Bergen,2021K4,2021,4,Multi-dwelling,118.8
+Bergen,2022K1,2022,1,Total,124.9
+Bergen,2022K1,2022,1,Detached houses,125.2
+Bergen,2022K1,2022,1,Row houses,126.5
+Bergen,2022K1,2022,1,Multi-dwelling,123.2
+Bergen,2022K2,2022,2,Total,130.0
+Bergen,2022K2,2022,2,Detached houses,134.0
+Bergen,2022K2,2022,2,Row houses,130.5
+Bergen,2022K2,2022,2,Multi-dwelling,125.3
+Bergen,2022K3,2022,3,Total,128.1
+Bergen,2022K3,2022,3,Detached houses,129.3
+Bergen,2022K3,2022,3,Row houses,129.7
+Bergen,2022K3,2022,3,Multi-dwelling,125.4
+Bergen,2022K4,2022,4,Total,123.3
+Bergen,2022K4,2022,4,Detached houses,122.7
+Bergen,2022K4,2022,4,Row houses,126.9
+Bergen,2022K4,2022,4,Multi-dwelling,120.9
+Bergen,2023K1,2023,1,Total,126.8
+Bergen,2023K1,2023,1,Detached houses,129.6
+Bergen,2023K1,2023,1,Row houses,126.6
+Bergen,2023K1,2023,1,Multi-dwelling,123.7
+Bergen,2023K2,2023,2,Total,129.7
+Bergen,2023K2,2023,2,Detached houses,130.8
+Bergen,2023K2,2023,2,Row houses,129.6
+Bergen,2023K2,2023,2,Multi-dwelling,128.3
+Bergen,2023K3,2023,3,Total,125.3
+Bergen,2023K3,2023,3,Detached houses,126.2
+Bergen,2023K3,2023,3,Row houses,124.9
+Bergen,2023K3,2023,3,Multi-dwelling,124.2
+Bergen,2023K4,2023,4,Total,122.0
+Bergen,2023K4,2023,4,Detached houses,121.4
+Bergen,2023K4,2023,4,Row houses,122.2
+Bergen,2023K4,2023,4,Multi-dwelling,122.2
+Bergen,2024K1,2024,1,Total,128.6
+Bergen,2024K1,2024,1,Detached houses,128.5
+Bergen,2024K1,2024,1,Row houses,127.7
+Bergen,2024K1,2024,1,Multi-dwelling,129.0
+Bergen,2024K2,2024,2,Total,133.1
+Bergen,2024K2,2024,2,Detached houses,132.4
+Bergen,2024K2,2024,2,Row houses,132.0
+Bergen,2024K2,2024,2,Multi-dwelling,134.3
+Bergen,2024K3,2024,3,Total,134.4
+Bergen,2024K3,2024,3,Detached houses,134.8
+Bergen,2024K3,2024,3,Row houses,131.8
+Bergen,2024K3,2024,3,Multi-dwelling,135.4
+Bergen,2024K4,2024,4,Total,134.6
+Bergen,2024K4,2024,4,Detached houses,129.5
+Bergen,2024K4,2024,4,Row houses,136.3
+Bergen,2024K4,2024,4,Multi-dwelling,138.0
+Bergen,2025K1,2025,1,Total,144.3
+Bergen,2025K1,2025,1,Detached houses,140.0
+Bergen,2025K1,2025,1,Row houses,142.5
+Bergen,2025K1,2025,1,Multi-dwelling,149.4
+Bergen,2025K2,2025,2,Total,147.7
+Bergen,2025K2,2025,2,Detached houses,145.3
+Bergen,2025K2,2025,2,Row houses,149.4
+Bergen,2025K2,2025,2,Multi-dwelling,148.3
+Bergen,2025K3,2025,3,Total,147.9
+Bergen,2025K3,2025,3,Detached houses,144.2
+Bergen,2025K3,2025,3,Row houses,148.1
+Bergen,2025K3,2025,3,Multi-dwelling,151.0
+Bergen,2025K4,2025,4,Total,148.9
+Bergen,2025K4,2025,4,Detached houses,144.3
+Bergen,2025K4,2025,4,Row houses,146.9
+Bergen,2025K4,2025,4,Multi-dwelling,154.5
+Bergen,2026K1,2026,1,Total,158.5
+Bergen,2026K1,2026,1,Detached houses,151.4
+Bergen,2026K1,2026,1,Row houses,161.8
+Bergen,2026K1,2026,1,Multi-dwelling,162.6
+Trondheim,2015K1,2015,1,Total,97.7
+Trondheim,2015K1,2015,1,Detached houses,96.0
+Trondheim,2015K1,2015,1,Row houses,98.0
+Trondheim,2015K1,2015,1,Multi-dwelling,99.2
+Trondheim,2015K2,2015,2,Total,101.7
+Trondheim,2015K2,2015,2,Detached houses,101.2
+Trondheim,2015K2,2015,2,Row houses,102.2
+Trondheim,2015K2,2015,2,Multi-dwelling,101.7
+Trondheim,2015K3,2015,3,Total,101.3
+Trondheim,2015K3,2015,3,Detached houses,103.8
+Trondheim,2015K3,2015,3,Row houses,99.9
+Trondheim,2015K3,2015,3,Multi-dwelling,99.9
+Trondheim,2015K4,2015,4,Total,99.3
+Trondheim,2015K4,2015,4,Detached houses,99.0
+Trondheim,2015K4,2015,4,Row houses,99.9
+Trondheim,2015K4,2015,4,Multi-dwelling,99.3
+Trondheim,2016K1,2016,1,Total,104.0
+Trondheim,2016K1,2016,1,Detached houses,104.7
+Trondheim,2016K1,2016,1,Row houses,104.1
+Trondheim,2016K1,2016,1,Multi-dwelling,103.0
+Trondheim,2016K2,2016,2,Total,106.4
+Trondheim,2016K2,2016,2,Detached houses,108.4
+Trondheim,2016K2,2016,2,Row houses,105.1
+Trondheim,2016K2,2016,2,Multi-dwelling,105.7
+Trondheim,2016K3,2016,3,Total,108.8
+Trondheim,2016K3,2016,3,Detached houses,113.1
+Trondheim,2016K3,2016,3,Row houses,105.8
+Trondheim,2016K3,2016,3,Multi-dwelling,107.0
+Trondheim,2016K4,2016,4,Total,108.3
+Trondheim,2016K4,2016,4,Detached houses,109.3
+Trondheim,2016K4,2016,4,Row houses,110.0
+Trondheim,2016K4,2016,4,Multi-dwelling,105.4
+Trondheim,2017K1,2017,1,Total,111.7
+Trondheim,2017K1,2017,1,Detached houses,110.5
+Trondheim,2017K1,2017,1,Row houses,113.7
+Trondheim,2017K1,2017,1,Multi-dwelling,110.9
+Trondheim,2017K2,2017,2,Total,113.0
+Trondheim,2017K2,2017,2,Detached houses,113.5
+Trondheim,2017K2,2017,2,Row houses,113.0
+Trondheim,2017K2,2017,2,Multi-dwelling,112.3
+Trondheim,2017K3,2017,3,Total,110.5
+Trondheim,2017K3,2017,3,Detached houses,114.0
+Trondheim,2017K3,2017,3,Row houses,108.4
+Trondheim,2017K3,2017,3,Multi-dwelling,108.6
+Trondheim,2017K4,2017,4,Total,106.8
+Trondheim,2017K4,2017,4,Detached houses,108.6
+Trondheim,2017K4,2017,4,Row houses,105.7
+Trondheim,2017K4,2017,4,Multi-dwelling,105.7
+Trondheim,2018K1,2018,1,Total,110.0
+Trondheim,2018K1,2018,1,Detached houses,110.0
+Trondheim,2018K1,2018,1,Row houses,111.7
+Trondheim,2018K1,2018,1,Multi-dwelling,108.0
+Trondheim,2018K2,2018,2,Total,113.4
+Trondheim,2018K2,2018,2,Detached houses,117.1
+Trondheim,2018K2,2018,2,Row houses,111.6
+Trondheim,2018K2,2018,2,Multi-dwelling,111.1
+Trondheim,2018K3,2018,3,Total,110.2
+Trondheim,2018K3,2018,3,Detached houses,110.1
+Trondheim,2018K3,2018,3,Row houses,111.6
+Trondheim,2018K3,2018,3,Multi-dwelling,108.8
+Trondheim,2018K4,2018,4,Total,110.4
+Trondheim,2018K4,2018,4,Detached houses,115.4
+Trondheim,2018K4,2018,4,Row houses,108.8
+Trondheim,2018K4,2018,4,Multi-dwelling,106.5
+Trondheim,2019K1,2019,1,Total,111.7
+Trondheim,2019K1,2019,1,Detached houses,114.0
+Trondheim,2019K1,2019,1,Row houses,111.9
+Trondheim,2019K1,2019,1,Multi-dwelling,108.8
+Trondheim,2019K2,2019,2,Total,111.1
+Trondheim,2019K2,2019,2,Detached houses,110.5
+Trondheim,2019K2,2019,2,Row houses,111.5
+Trondheim,2019K2,2019,2,Multi-dwelling,111.0
+Trondheim,2019K3,2019,3,Total,112.1
+Trondheim,2019K3,2019,3,Detached houses,114.6
+Trondheim,2019K3,2019,3,Row houses,110.8
+Trondheim,2019K3,2019,3,Multi-dwelling,110.4
+Trondheim,2019K4,2019,4,Total,110.5
+Trondheim,2019K4,2019,4,Detached houses,113.4
+Trondheim,2019K4,2019,4,Row houses,108.9
+Trondheim,2019K4,2019,4,Multi-dwelling,108.5
+Trondheim,2020K1,2020,1,Total,113.3
+Trondheim,2020K1,2020,1,Detached houses,114.3
+Trondheim,2020K1,2020,1,Row houses,115.0
+Trondheim,2020K1,2020,1,Multi-dwelling,110.1
+Trondheim,2020K2,2020,2,Total,115.4
+Trondheim,2020K2,2020,2,Detached houses,118.2
+Trondheim,2020K2,2020,2,Row houses,114.3
+Trondheim,2020K2,2020,2,Multi-dwelling,113.2
+Trondheim,2020K3,2020,3,Total,115.8
+Trondheim,2020K3,2020,3,Detached houses,118.8
+Trondheim,2020K3,2020,3,Row houses,114.2
+Trondheim,2020K3,2020,3,Multi-dwelling,113.7
+Trondheim,2020K4,2020,4,Total,117.6
+Trondheim,2020K4,2020,4,Detached houses,119.9
+Trondheim,2020K4,2020,4,Row houses,118.7
+Trondheim,2020K4,2020,4,Multi-dwelling,113.7
+Trondheim,2021K1,2021,1,Total,123.5
+Trondheim,2021K1,2021,1,Detached houses,124.3
+Trondheim,2021K1,2021,1,Row houses,123.4
+Trondheim,2021K1,2021,1,Multi-dwelling,122.2
+Trondheim,2021K2,2021,2,Total,128.5
+Trondheim,2021K2,2021,2,Detached houses,130.4
+Trondheim,2021K2,2021,2,Row houses,130.1
+Trondheim,2021K2,2021,2,Multi-dwelling,124.4
+Trondheim,2021K3,2021,3,Total,129.6
+Trondheim,2021K3,2021,3,Detached houses,132.0
+Trondheim,2021K3,2021,3,Row houses,130.1
+Trondheim,2021K3,2021,3,Multi-dwelling,126.0
+Trondheim,2021K4,2021,4,Total,129.8
+Trondheim,2021K4,2021,4,Detached houses,134.8
+Trondheim,2021K4,2021,4,Row houses,129.8
+Trondheim,2021K4,2021,4,Multi-dwelling,123.9
+Trondheim,2022K1,2022,1,Total,137.7
+Trondheim,2022K1,2022,1,Detached houses,142.4
+Trondheim,2022K1,2022,1,Row houses,138.8
+Trondheim,2022K1,2022,1,Multi-dwelling,131.1
+Trondheim,2022K2,2022,2,Total,139.7
+Trondheim,2022K2,2022,2,Detached houses,146.3
+Trondheim,2022K2,2022,2,Row houses,138.2
+Trondheim,2022K2,2022,2,Multi-dwelling,133.4
+Trondheim,2022K3,2022,3,Total,136.7
+Trondheim,2022K3,2022,3,Detached houses,142.9
+Trondheim,2022K3,2022,3,Row houses,135.6
+Trondheim,2022K3,2022,3,Multi-dwelling,130.5
+Trondheim,2022K4,2022,4,Total,131.1
+Trondheim,2022K4,2022,4,Detached houses,133.7
+Trondheim,2022K4,2022,4,Row houses,133.4
+Trondheim,2022K4,2022,4,Multi-dwelling,125.5
+Trondheim,2023K1,2023,1,Total,135.5
+Trondheim,2023K1,2023,1,Detached houses,139.2
+Trondheim,2023K1,2023,1,Row houses,136.7
+Trondheim,2023K1,2023,1,Multi-dwelling,129.9
+Trondheim,2023K2,2023,2,Total,138.5
+Trondheim,2023K2,2023,2,Detached houses,142.6
+Trondheim,2023K2,2023,2,Row houses,138.8
+Trondheim,2023K2,2023,2,Multi-dwelling,133.2
+Trondheim,2023K3,2023,3,Total,135.4
+Trondheim,2023K3,2023,3,Detached houses,139.1
+Trondheim,2023K3,2023,3,Row houses,135.2
+Trondheim,2023K3,2023,3,Multi-dwelling,131.1
+Trondheim,2023K4,2023,4,Total,131.4
+Trondheim,2023K4,2023,4,Detached houses,133.6
+Trondheim,2023K4,2023,4,Row houses,133.0
+Trondheim,2023K4,2023,4,Multi-dwelling,126.9
+Trondheim,2024K1,2024,1,Total,137.5
+Trondheim,2024K1,2024,1,Detached houses,140.4
+Trondheim,2024K1,2024,1,Row houses,140.8
+Trondheim,2024K1,2024,1,Multi-dwelling,130.7
+Trondheim,2024K2,2024,2,Total,138.9
+Trondheim,2024K2,2024,2,Detached houses,143.3
+Trondheim,2024K2,2024,2,Row houses,137.8
+Trondheim,2024K2,2024,2,Multi-dwelling,134.4
+Trondheim,2024K3,2024,3,Total,136.7
+Trondheim,2024K3,2024,3,Detached houses,138.2
+Trondheim,2024K3,2024,3,Row houses,140.3
+Trondheim,2024K3,2024,3,Multi-dwelling,131.1
+Trondheim,2024K4,2024,4,Total,134.2
+Trondheim,2024K4,2024,4,Detached houses,136.4
+Trondheim,2024K4,2024,4,Row houses,135.4
+Trondheim,2024K4,2024,4,Multi-dwelling,130.0
+Trondheim,2025K1,2025,1,Total,140.4
+Trondheim,2025K1,2025,1,Detached houses,143.9
+Trondheim,2025K1,2025,1,Row houses,140.9
+Trondheim,2025K1,2025,1,Multi-dwelling,135.4
+Trondheim,2025K2,2025,2,Total,143.3
+Trondheim,2025K2,2025,2,Detached houses,147.8
+Trondheim,2025K2,2025,2,Row houses,143.6
+Trondheim,2025K2,2025,2,Multi-dwelling,137.8
+Trondheim,2025K3,2025,3,Total,140.4
+Trondheim,2025K3,2025,3,Detached houses,144.9
+Trondheim,2025K3,2025,3,Row houses,140.7
+Trondheim,2025K3,2025,3,Multi-dwelling,134.7
+Trondheim,2025K4,2025,4,Total,140.9
+Trondheim,2025K4,2025,4,Detached houses,150.5
+Trondheim,2025K4,2025,4,Row houses,140.9
+Trondheim,2025K4,2025,4,Multi-dwelling,130.8
+Trondheim,2026K1,2026,1,Total,143.0
+Trondheim,2026K1,2026,1,Detached houses,144.8
+Trondheim,2026K1,2026,1,Row houses,146.2
+Trondheim,2026K1,2026,1,Multi-dwelling,136.9
+Akershus excluding Bærum,2015K1,2015,1,Total,97.7
+Akershus excluding Bærum,2015K1,2015,1,Detached houses,97.5
+Akershus excluding Bærum,2015K1,2015,1,Row houses,97.7
+Akershus excluding Bærum,2015K1,2015,1,Multi-dwelling,98.6
+Akershus excluding Bærum,2015K2,2015,2,Total,100.6
+Akershus excluding Bærum,2015K2,2015,2,Detached houses,101.2
+Akershus excluding Bærum,2015K2,2015,2,Row houses,99.9
+Akershus excluding Bærum,2015K2,2015,2,Multi-dwelling,99.2
+Akershus excluding Bærum,2015K3,2015,3,Total,101.4
+Akershus excluding Bærum,2015K3,2015,3,Detached houses,101.8
+Akershus excluding Bærum,2015K3,2015,3,Row houses,100.4
+Akershus excluding Bærum,2015K3,2015,3,Multi-dwelling,101.3
+Akershus excluding Bærum,2015K4,2015,4,Total,100.3
+Akershus excluding Bærum,2015K4,2015,4,Detached houses,99.5
+Akershus excluding Bærum,2015K4,2015,4,Row houses,102.0
+Akershus excluding Bærum,2015K4,2015,4,Multi-dwelling,100.9
+Akershus excluding Bærum,2016K1,2016,1,Total,105.7
+Akershus excluding Bærum,2016K1,2016,1,Detached houses,105.7
+Akershus excluding Bærum,2016K1,2016,1,Row houses,106.5
+Akershus excluding Bærum,2016K1,2016,1,Multi-dwelling,104.2
+Akershus excluding Bærum,2016K2,2016,2,Total,109.3
+Akershus excluding Bærum,2016K2,2016,2,Detached houses,109.4
+Akershus excluding Bærum,2016K2,2016,2,Row houses,109.7
+Akershus excluding Bærum,2016K2,2016,2,Multi-dwelling,108.6
+Akershus excluding Bærum,2016K3,2016,3,Total,112.3
+Akershus excluding Bærum,2016K3,2016,3,Detached houses,112.1
+Akershus excluding Bærum,2016K3,2016,3,Row houses,111.8
+Akershus excluding Bærum,2016K3,2016,3,Multi-dwelling,114.3
+Akershus excluding Bærum,2016K4,2016,4,Total,114.6
+Akershus excluding Bærum,2016K4,2016,4,Detached houses,113.8
+Akershus excluding Bærum,2016K4,2016,4,Row houses,115.3
+Akershus excluding Bærum,2016K4,2016,4,Multi-dwelling,116.9
+Akershus excluding Bærum,2017K1,2017,1,Total,122.6
+Akershus excluding Bærum,2017K1,2017,1,Detached houses,121.8
+Akershus excluding Bærum,2017K1,2017,1,Row houses,123.4
+Akershus excluding Bærum,2017K1,2017,1,Multi-dwelling,124.3
+Akershus excluding Bærum,2017K2,2017,2,Total,122.9
+Akershus excluding Bærum,2017K2,2017,2,Detached houses,121.7
+Akershus excluding Bærum,2017K2,2017,2,Row houses,124.3
+Akershus excluding Bærum,2017K2,2017,2,Multi-dwelling,124.9
+Akershus excluding Bærum,2017K3,2017,3,Total,120.8
+Akershus excluding Bærum,2017K3,2017,3,Detached houses,120.1
+Akershus excluding Bærum,2017K3,2017,3,Row houses,122.2
+Akershus excluding Bærum,2017K3,2017,3,Multi-dwelling,121.4
+Akershus excluding Bærum,2017K4,2017,4,Total,118.1
+Akershus excluding Bærum,2017K4,2017,4,Detached houses,117.6
+Akershus excluding Bærum,2017K4,2017,4,Row houses,118.9
+Akershus excluding Bærum,2017K4,2017,4,Multi-dwelling,118.9
+Akershus excluding Bærum,2018K1,2018,1,Total,120.8
+Akershus excluding Bærum,2018K1,2018,1,Detached houses,120.2
+Akershus excluding Bærum,2018K1,2018,1,Row houses,121.7
+Akershus excluding Bærum,2018K1,2018,1,Multi-dwelling,121.3
+Akershus excluding Bærum,2018K2,2018,2,Total,124.0
+Akershus excluding Bærum,2018K2,2018,2,Detached houses,124.0
+Akershus excluding Bærum,2018K2,2018,2,Row houses,124.4
+Akershus excluding Bærum,2018K2,2018,2,Multi-dwelling,123.1
+Akershus excluding Bærum,2018K3,2018,3,Total,123.3
+Akershus excluding Bærum,2018K3,2018,3,Detached houses,123.6
+Akershus excluding Bærum,2018K3,2018,3,Row houses,121.9
+Akershus excluding Bærum,2018K3,2018,3,Multi-dwelling,124.2
+Akershus excluding Bærum,2018K4,2018,4,Total,121.3
+Akershus excluding Bærum,2018K4,2018,4,Detached houses,121.0
+Akershus excluding Bærum,2018K4,2018,4,Row houses,121.5
+Akershus excluding Bærum,2018K4,2018,4,Multi-dwelling,122.3
+Akershus excluding Bærum,2019K1,2019,1,Total,123.8
+Akershus excluding Bærum,2019K1,2019,1,Detached houses,123.0
+Akershus excluding Bærum,2019K1,2019,1,Row houses,124.1
+Akershus excluding Bærum,2019K1,2019,1,Multi-dwelling,126.3
+Akershus excluding Bærum,2019K2,2019,2,Total,127.0
+Akershus excluding Bærum,2019K2,2019,2,Detached houses,127.4
+Akershus excluding Bærum,2019K2,2019,2,Row houses,125.6
+Akershus excluding Bærum,2019K2,2019,2,Multi-dwelling,127.6
+Akershus excluding Bærum,2019K3,2019,3,Total,126.7
+Akershus excluding Bærum,2019K3,2019,3,Detached houses,126.5
+Akershus excluding Bærum,2019K3,2019,3,Row houses,126.5
+Akershus excluding Bærum,2019K3,2019,3,Multi-dwelling,127.7
+Akershus excluding Bærum,2019K4,2019,4,Total,124.6
+Akershus excluding Bærum,2019K4,2019,4,Detached houses,124.1
+Akershus excluding Bærum,2019K4,2019,4,Row houses,124.6
+Akershus excluding Bærum,2019K4,2019,4,Multi-dwelling,126.3
+Akershus excluding Bærum,2020K1,2020,1,Total,126.4
+Akershus excluding Bærum,2020K1,2020,1,Detached houses,125.6
+Akershus excluding Bærum,2020K1,2020,1,Row houses,128.0
+Akershus excluding Bærum,2020K1,2020,1,Multi-dwelling,126.8
+Akershus excluding Bærum,2020K2,2020,2,Total,129.4
+Akershus excluding Bærum,2020K2,2020,2,Detached houses,128.5
+Akershus excluding Bærum,2020K2,2020,2,Row houses,131.9
+Akershus excluding Bærum,2020K2,2020,2,Multi-dwelling,128.5
+Akershus excluding Bærum,2020K3,2020,3,Total,131.9
+Akershus excluding Bærum,2020K3,2020,3,Detached houses,130.4
+Akershus excluding Bærum,2020K3,2020,3,Row houses,135.4
+Akershus excluding Bærum,2020K3,2020,3,Multi-dwelling,132.2
+Akershus excluding Bærum,2020K4,2020,4,Total,134.3
+Akershus excluding Bærum,2020K4,2020,4,Detached houses,134.0
+Akershus excluding Bærum,2020K4,2020,4,Row houses,134.4
+Akershus excluding Bærum,2020K4,2020,4,Multi-dwelling,134.9
+Akershus excluding Bærum,2021K1,2021,1,Total,141.6
+Akershus excluding Bærum,2021K1,2021,1,Detached houses,141.6
+Akershus excluding Bærum,2021K1,2021,1,Row houses,142.5
+Akershus excluding Bærum,2021K1,2021,1,Multi-dwelling,139.9
+Akershus excluding Bærum,2021K2,2021,2,Total,148.5
+Akershus excluding Bærum,2021K2,2021,2,Detached houses,151.2
+Akershus excluding Bærum,2021K2,2021,2,Row houses,146.0
+Akershus excluding Bærum,2021K2,2021,2,Multi-dwelling,141.9
+Akershus excluding Bærum,2021K3,2021,3,Total,148.9
+Akershus excluding Bærum,2021K3,2021,3,Detached houses,150.4
+Akershus excluding Bærum,2021K3,2021,3,Row houses,148.8
+Akershus excluding Bærum,2021K3,2021,3,Multi-dwelling,142.9
+Akershus excluding Bærum,2021K4,2021,4,Total,144.2
+Akershus excluding Bærum,2021K4,2021,4,Detached houses,144.3
+Akershus excluding Bærum,2021K4,2021,4,Row houses,144.1
+Akershus excluding Bærum,2021K4,2021,4,Multi-dwelling,143.8
+Akershus excluding Bærum,2022K1,2022,1,Total,150.2
+Akershus excluding Bærum,2022K1,2022,1,Detached houses,149.2
+Akershus excluding Bærum,2022K1,2022,1,Row houses,153.3
+Akershus excluding Bærum,2022K1,2022,1,Multi-dwelling,148.8
+Akershus excluding Bærum,2022K2,2022,2,Total,154.3
+Akershus excluding Bærum,2022K2,2022,2,Detached houses,154.6
+Akershus excluding Bærum,2022K2,2022,2,Row houses,156.7
+Akershus excluding Bærum,2022K2,2022,2,Multi-dwelling,149.0
+Akershus excluding Bærum,2022K3,2022,3,Total,150.1
+Akershus excluding Bærum,2022K3,2022,3,Detached houses,149.3
+Akershus excluding Bærum,2022K3,2022,3,Row houses,152.1
+Akershus excluding Bærum,2022K3,2022,3,Multi-dwelling,150.1
+Akershus excluding Bærum,2022K4,2022,4,Total,144.5
+Akershus excluding Bærum,2022K4,2022,4,Detached houses,143.2
+Akershus excluding Bærum,2022K4,2022,4,Row houses,146.1
+Akershus excluding Bærum,2022K4,2022,4,Multi-dwelling,146.8
+Akershus excluding Bærum,2023K1,2023,1,Total,147.0
+Akershus excluding Bærum,2023K1,2023,1,Detached houses,144.7
+Akershus excluding Bærum,2023K1,2023,1,Row houses,151.7
+Akershus excluding Bærum,2023K1,2023,1,Multi-dwelling,148.6
+Akershus excluding Bærum,2023K2,2023,2,Total,151.6
+Akershus excluding Bærum,2023K2,2023,2,Detached houses,151.3
+Akershus excluding Bærum,2023K2,2023,2,Row houses,151.0
+Akershus excluding Bærum,2023K2,2023,2,Multi-dwelling,153.4
+Akershus excluding Bærum,2023K3,2023,3,Total,146.9
+Akershus excluding Bærum,2023K3,2023,3,Detached houses,144.8
+Akershus excluding Bærum,2023K3,2023,3,Row houses,150.2
+Akershus excluding Bærum,2023K3,2023,3,Multi-dwelling,149.9
+Akershus excluding Bærum,2023K4,2023,4,Total,142.8
+Akershus excluding Bærum,2023K4,2023,4,Detached houses,140.4
+Akershus excluding Bærum,2023K4,2023,4,Row houses,145.2
+Akershus excluding Bærum,2023K4,2023,4,Multi-dwelling,147.9
+Akershus excluding Bærum,2024K1,2024,1,Total,147.7
+Akershus excluding Bærum,2024K1,2024,1,Detached houses,144.5
+Akershus excluding Bærum,2024K1,2024,1,Row houses,152.8
+Akershus excluding Bærum,2024K1,2024,1,Multi-dwelling,151.4
+Akershus excluding Bærum,2024K2,2024,2,Total,153.5
+Akershus excluding Bærum,2024K2,2024,2,Detached houses,152.2
+Akershus excluding Bærum,2024K2,2024,2,Row houses,155.4
+Akershus excluding Bærum,2024K2,2024,2,Multi-dwelling,155.3
+Akershus excluding Bærum,2024K3,2024,3,Total,147.2
+Akershus excluding Bærum,2024K3,2024,3,Detached houses,142.8
+Akershus excluding Bærum,2024K3,2024,3,Row houses,153.3
+Akershus excluding Bærum,2024K3,2024,3,Multi-dwelling,153.6
+Akershus excluding Bærum,2024K4,2024,4,Total,147.0
+Akershus excluding Bærum,2024K4,2024,4,Detached houses,144.4
+Akershus excluding Bærum,2024K4,2024,4,Row houses,149.1
+Akershus excluding Bærum,2024K4,2024,4,Multi-dwelling,153.1
+Akershus excluding Bærum,2025K1,2025,1,Total,153.0
+Akershus excluding Bærum,2025K1,2025,1,Detached houses,149.2
+Akershus excluding Bærum,2025K1,2025,1,Row houses,157.0
+Akershus excluding Bærum,2025K1,2025,1,Multi-dwelling,160.0
+Akershus excluding Bærum,2025K2,2025,2,Total,156.7
+Akershus excluding Bærum,2025K2,2025,2,Detached houses,155.2
+Akershus excluding Bærum,2025K2,2025,2,Row houses,158.2
+Akershus excluding Bærum,2025K2,2025,2,Multi-dwelling,159.6
+Akershus excluding Bærum,2025K3,2025,3,Total,155.5
+Akershus excluding Bærum,2025K3,2025,3,Detached houses,153.3
+Akershus excluding Bærum,2025K3,2025,3,Row houses,158.3
+Akershus excluding Bærum,2025K3,2025,3,Multi-dwelling,158.9
+Akershus excluding Bærum,2025K4,2025,4,Total,153.1
+Akershus excluding Bærum,2025K4,2025,4,Detached houses,149.7
+Akershus excluding Bærum,2025K4,2025,4,Row houses,157.7
+Akershus excluding Bærum,2025K4,2025,4,Multi-dwelling,158.2
+Akershus excluding Bærum,2026K1,2026,1,Total,158.3
+Akershus excluding Bærum,2026K1,2026,1,Detached houses,154.9
+Akershus excluding Bærum,2026K1,2026,1,Row houses,163.3
+Akershus excluding Bærum,2026K1,2026,1,Multi-dwelling,162.7
+"Østfold, Buskerud, Vestfold and Telemark",2015K1,2015,1,Total,97.8
+"Østfold, Buskerud, Vestfold and Telemark",2015K1,2015,1,Detached houses,97.9
+"Østfold, Buskerud, Vestfold and Telemark",2015K1,2015,1,Row houses,97.6
+"Østfold, Buskerud, Vestfold and Telemark",2015K1,2015,1,Multi-dwelling,98.1
+"Østfold, Buskerud, Vestfold and Telemark",2015K2,2015,2,Total,101.0
+"Østfold, Buskerud, Vestfold and Telemark",2015K2,2015,2,Detached houses,101.3
+"Østfold, Buskerud, Vestfold and Telemark",2015K2,2015,2,Row houses,100.8
+"Østfold, Buskerud, Vestfold and Telemark",2015K2,2015,2,Multi-dwelling,99.6
+"Østfold, Buskerud, Vestfold and Telemark",2015K3,2015,3,Total,101.5
+"Østfold, Buskerud, Vestfold and Telemark",2015K3,2015,3,Detached houses,102.1
+"Østfold, Buskerud, Vestfold and Telemark",2015K3,2015,3,Row houses,100.1
+"Østfold, Buskerud, Vestfold and Telemark",2015K3,2015,3,Multi-dwelling,100.5
+"Østfold, Buskerud, Vestfold and Telemark",2015K4,2015,4,Total,99.7
+"Østfold, Buskerud, Vestfold and Telemark",2015K4,2015,4,Detached houses,98.7
+"Østfold, Buskerud, Vestfold and Telemark",2015K4,2015,4,Row houses,101.5
+"Østfold, Buskerud, Vestfold and Telemark",2015K4,2015,4,Multi-dwelling,101.8
+"Østfold, Buskerud, Vestfold and Telemark",2016K1,2016,1,Total,103.2
+"Østfold, Buskerud, Vestfold and Telemark",2016K1,2016,1,Detached houses,102.8
+"Østfold, Buskerud, Vestfold and Telemark",2016K1,2016,1,Row houses,104.0
+"Østfold, Buskerud, Vestfold and Telemark",2016K1,2016,1,Multi-dwelling,104.0
+"Østfold, Buskerud, Vestfold and Telemark",2016K2,2016,2,Total,107.7
+"Østfold, Buskerud, Vestfold and Telemark",2016K2,2016,2,Detached houses,107.6
+"Østfold, Buskerud, Vestfold and Telemark",2016K2,2016,2,Row houses,107.7
+"Østfold, Buskerud, Vestfold and Telemark",2016K2,2016,2,Multi-dwelling,107.7
+"Østfold, Buskerud, Vestfold and Telemark",2016K3,2016,3,Total,109.9
+"Østfold, Buskerud, Vestfold and Telemark",2016K3,2016,3,Detached houses,109.6
+"Østfold, Buskerud, Vestfold and Telemark",2016K3,2016,3,Row houses,111.3
+"Østfold, Buskerud, Vestfold and Telemark",2016K3,2016,3,Multi-dwelling,109.4
+"Østfold, Buskerud, Vestfold and Telemark",2016K4,2016,4,Total,109.2
+"Østfold, Buskerud, Vestfold and Telemark",2016K4,2016,4,Detached houses,107.9
+"Østfold, Buskerud, Vestfold and Telemark",2016K4,2016,4,Row houses,112.0
+"Østfold, Buskerud, Vestfold and Telemark",2016K4,2016,4,Multi-dwelling,111.2
+"Østfold, Buskerud, Vestfold and Telemark",2017K1,2017,1,Total,111.9
+"Østfold, Buskerud, Vestfold and Telemark",2017K1,2017,1,Detached houses,111.3
+"Østfold, Buskerud, Vestfold and Telemark",2017K1,2017,1,Row houses,113.3
+"Østfold, Buskerud, Vestfold and Telemark",2017K1,2017,1,Multi-dwelling,112.7
+"Østfold, Buskerud, Vestfold and Telemark",2017K2,2017,2,Total,113.3
+"Østfold, Buskerud, Vestfold and Telemark",2017K2,2017,2,Detached houses,112.6
+"Østfold, Buskerud, Vestfold and Telemark",2017K2,2017,2,Row houses,114.4
+"Østfold, Buskerud, Vestfold and Telemark",2017K2,2017,2,Multi-dwelling,114.6
+"Østfold, Buskerud, Vestfold and Telemark",2017K3,2017,3,Total,113.0
+"Østfold, Buskerud, Vestfold and Telemark",2017K3,2017,3,Detached houses,111.9
+"Østfold, Buskerud, Vestfold and Telemark",2017K3,2017,3,Row houses,115.3
+"Østfold, Buskerud, Vestfold and Telemark",2017K3,2017,3,Multi-dwelling,115.1
+"Østfold, Buskerud, Vestfold and Telemark",2017K4,2017,4,Total,112.3
+"Østfold, Buskerud, Vestfold and Telemark",2017K4,2017,4,Detached houses,111.7
+"Østfold, Buskerud, Vestfold and Telemark",2017K4,2017,4,Row houses,112.3
+"Østfold, Buskerud, Vestfold and Telemark",2017K4,2017,4,Multi-dwelling,115.0
+"Østfold, Buskerud, Vestfold and Telemark",2018K1,2018,1,Total,114.4
+"Østfold, Buskerud, Vestfold and Telemark",2018K1,2018,1,Detached houses,113.7
+"Østfold, Buskerud, Vestfold and Telemark",2018K1,2018,1,Row houses,115.0
+"Østfold, Buskerud, Vestfold and Telemark",2018K1,2018,1,Multi-dwelling,117.4
+"Østfold, Buskerud, Vestfold and Telemark",2018K2,2018,2,Total,119.3
+"Østfold, Buskerud, Vestfold and Telemark",2018K2,2018,2,Detached houses,119.3
+"Østfold, Buskerud, Vestfold and Telemark",2018K2,2018,2,Row houses,118.9
+"Østfold, Buskerud, Vestfold and Telemark",2018K2,2018,2,Multi-dwelling,120.1
+"Østfold, Buskerud, Vestfold and Telemark",2018K3,2018,3,Total,118.6
+"Østfold, Buskerud, Vestfold and Telemark",2018K3,2018,3,Detached houses,117.6
+"Østfold, Buskerud, Vestfold and Telemark",2018K3,2018,3,Row houses,120.5
+"Østfold, Buskerud, Vestfold and Telemark",2018K3,2018,3,Multi-dwelling,120.5
+"Østfold, Buskerud, Vestfold and Telemark",2018K4,2018,4,Total,115.5
+"Østfold, Buskerud, Vestfold and Telemark",2018K4,2018,4,Detached houses,114.3
+"Østfold, Buskerud, Vestfold and Telemark",2018K4,2018,4,Row houses,116.7
+"Østfold, Buskerud, Vestfold and Telemark",2018K4,2018,4,Multi-dwelling,119.5
+"Østfold, Buskerud, Vestfold and Telemark",2019K1,2019,1,Total,119.9
+"Østfold, Buskerud, Vestfold and Telemark",2019K1,2019,1,Detached houses,119.2
+"Østfold, Buskerud, Vestfold and Telemark",2019K1,2019,1,Row houses,120.7
+"Østfold, Buskerud, Vestfold and Telemark",2019K1,2019,1,Multi-dwelling,122.0
+"Østfold, Buskerud, Vestfold and Telemark",2019K2,2019,2,Total,122.6
+"Østfold, Buskerud, Vestfold and Telemark",2019K2,2019,2,Detached houses,122.3
+"Østfold, Buskerud, Vestfold and Telemark",2019K2,2019,2,Row houses,122.5
+"Østfold, Buskerud, Vestfold and Telemark",2019K2,2019,2,Multi-dwelling,124.4
+"Østfold, Buskerud, Vestfold and Telemark",2019K3,2019,3,Total,122.3
+"Østfold, Buskerud, Vestfold and Telemark",2019K3,2019,3,Detached houses,121.3
+"Østfold, Buskerud, Vestfold and Telemark",2019K3,2019,3,Row houses,123.4
+"Østfold, Buskerud, Vestfold and Telemark",2019K3,2019,3,Multi-dwelling,125.5
+"Østfold, Buskerud, Vestfold and Telemark",2019K4,2019,4,Total,118.7
+"Østfold, Buskerud, Vestfold and Telemark",2019K4,2019,4,Detached houses,117.2
+"Østfold, Buskerud, Vestfold and Telemark",2019K4,2019,4,Row houses,121.0
+"Østfold, Buskerud, Vestfold and Telemark",2019K4,2019,4,Multi-dwelling,123.2
+"Østfold, Buskerud, Vestfold and Telemark",2020K1,2020,1,Total,121.8
+"Østfold, Buskerud, Vestfold and Telemark",2020K1,2020,1,Detached houses,120.8
+"Østfold, Buskerud, Vestfold and Telemark",2020K1,2020,1,Row houses,121.8
+"Østfold, Buskerud, Vestfold and Telemark",2020K1,2020,1,Multi-dwelling,126.6
+"Østfold, Buskerud, Vestfold and Telemark",2020K2,2020,2,Total,128.3
+"Østfold, Buskerud, Vestfold and Telemark",2020K2,2020,2,Detached houses,129.0
+"Østfold, Buskerud, Vestfold and Telemark",2020K2,2020,2,Row houses,126.9
+"Østfold, Buskerud, Vestfold and Telemark",2020K2,2020,2,Multi-dwelling,127.1
+"Østfold, Buskerud, Vestfold and Telemark",2020K3,2020,3,Total,130.6
+"Østfold, Buskerud, Vestfold and Telemark",2020K3,2020,3,Detached houses,130.6
+"Østfold, Buskerud, Vestfold and Telemark",2020K3,2020,3,Row houses,130.3
+"Østfold, Buskerud, Vestfold and Telemark",2020K3,2020,3,Multi-dwelling,130.9
+"Østfold, Buskerud, Vestfold and Telemark",2020K4,2020,4,Total,130.8
+"Østfold, Buskerud, Vestfold and Telemark",2020K4,2020,4,Detached houses,130.0
+"Østfold, Buskerud, Vestfold and Telemark",2020K4,2020,4,Row houses,132.0
+"Østfold, Buskerud, Vestfold and Telemark",2020K4,2020,4,Multi-dwelling,133.0
+"Østfold, Buskerud, Vestfold and Telemark",2021K1,2021,1,Total,137.7
+"Østfold, Buskerud, Vestfold and Telemark",2021K1,2021,1,Detached houses,138.1
+"Østfold, Buskerud, Vestfold and Telemark",2021K1,2021,1,Row houses,136.1
+"Østfold, Buskerud, Vestfold and Telemark",2021K1,2021,1,Multi-dwelling,138.5
+"Østfold, Buskerud, Vestfold and Telemark",2021K2,2021,2,Total,147.4
+"Østfold, Buskerud, Vestfold and Telemark",2021K2,2021,2,Detached houses,149.7
+"Østfold, Buskerud, Vestfold and Telemark",2021K2,2021,2,Row houses,143.7
+"Østfold, Buskerud, Vestfold and Telemark",2021K2,2021,2,Multi-dwelling,142.6
+"Østfold, Buskerud, Vestfold and Telemark",2021K3,2021,3,Total,146.5
+"Østfold, Buskerud, Vestfold and Telemark",2021K3,2021,3,Detached houses,147.0
+"Østfold, Buskerud, Vestfold and Telemark",2021K3,2021,3,Row houses,146.7
+"Østfold, Buskerud, Vestfold and Telemark",2021K3,2021,3,Multi-dwelling,143.8
+"Østfold, Buskerud, Vestfold and Telemark",2021K4,2021,4,Total,142.8
+"Østfold, Buskerud, Vestfold and Telemark",2021K4,2021,4,Detached houses,142.9
+"Østfold, Buskerud, Vestfold and Telemark",2021K4,2021,4,Row houses,143.1
+"Østfold, Buskerud, Vestfold and Telemark",2021K4,2021,4,Multi-dwelling,142.2
+"Østfold, Buskerud, Vestfold and Telemark",2022K1,2022,1,Total,149.5
+"Østfold, Buskerud, Vestfold and Telemark",2022K1,2022,1,Detached houses,149.1
+"Østfold, Buskerud, Vestfold and Telemark",2022K1,2022,1,Row houses,150.3
+"Østfold, Buskerud, Vestfold and Telemark",2022K1,2022,1,Multi-dwelling,150.5
+"Østfold, Buskerud, Vestfold and Telemark",2022K2,2022,2,Total,157.7
+"Østfold, Buskerud, Vestfold and Telemark",2022K2,2022,2,Detached houses,158.7
+"Østfold, Buskerud, Vestfold and Telemark",2022K2,2022,2,Row houses,156.5
+"Østfold, Buskerud, Vestfold and Telemark",2022K2,2022,2,Multi-dwelling,154.9
+"Østfold, Buskerud, Vestfold and Telemark",2022K3,2022,3,Total,153.9
+"Østfold, Buskerud, Vestfold and Telemark",2022K3,2022,3,Detached houses,153.9
+"Østfold, Buskerud, Vestfold and Telemark",2022K3,2022,3,Row houses,153.9
+"Østfold, Buskerud, Vestfold and Telemark",2022K3,2022,3,Multi-dwelling,154.2
+"Østfold, Buskerud, Vestfold and Telemark",2022K4,2022,4,Total,145.3
+"Østfold, Buskerud, Vestfold and Telemark",2022K4,2022,4,Detached houses,143.8
+"Østfold, Buskerud, Vestfold and Telemark",2022K4,2022,4,Row houses,147.4
+"Østfold, Buskerud, Vestfold and Telemark",2022K4,2022,4,Multi-dwelling,149.1
+"Østfold, Buskerud, Vestfold and Telemark",2023K1,2023,1,Total,147.8
+"Østfold, Buskerud, Vestfold and Telemark",2023K1,2023,1,Detached houses,146.2
+"Østfold, Buskerud, Vestfold and Telemark",2023K1,2023,1,Row houses,150.2
+"Østfold, Buskerud, Vestfold and Telemark",2023K1,2023,1,Multi-dwelling,152.0
+"Østfold, Buskerud, Vestfold and Telemark",2023K2,2023,2,Total,155.4
+"Østfold, Buskerud, Vestfold and Telemark",2023K2,2023,2,Detached houses,156.1
+"Østfold, Buskerud, Vestfold and Telemark",2023K2,2023,2,Row houses,153.0
+"Østfold, Buskerud, Vestfold and Telemark",2023K2,2023,2,Multi-dwelling,156.1
+"Østfold, Buskerud, Vestfold and Telemark",2023K3,2023,3,Total,149.6
+"Østfold, Buskerud, Vestfold and Telemark",2023K3,2023,3,Detached houses,148.7
+"Østfold, Buskerud, Vestfold and Telemark",2023K3,2023,3,Row houses,150.9
+"Østfold, Buskerud, Vestfold and Telemark",2023K3,2023,3,Multi-dwelling,152.1
+"Østfold, Buskerud, Vestfold and Telemark",2023K4,2023,4,Total,143.5
+"Østfold, Buskerud, Vestfold and Telemark",2023K4,2023,4,Detached houses,142.6
+"Østfold, Buskerud, Vestfold and Telemark",2023K4,2023,4,Row houses,143.2
+"Østfold, Buskerud, Vestfold and Telemark",2023K4,2023,4,Multi-dwelling,149.0
+"Østfold, Buskerud, Vestfold and Telemark",2024K1,2024,1,Total,149.2
+"Østfold, Buskerud, Vestfold and Telemark",2024K1,2024,1,Detached houses,148.6
+"Østfold, Buskerud, Vestfold and Telemark",2024K1,2024,1,Row houses,148.8
+"Østfold, Buskerud, Vestfold and Telemark",2024K1,2024,1,Multi-dwelling,153.0
+"Østfold, Buskerud, Vestfold and Telemark",2024K2,2024,2,Total,155.5
+"Østfold, Buskerud, Vestfold and Telemark",2024K2,2024,2,Detached houses,156.1
+"Østfold, Buskerud, Vestfold and Telemark",2024K2,2024,2,Row houses,153.2
+"Østfold, Buskerud, Vestfold and Telemark",2024K2,2024,2,Multi-dwelling,156.4
+"Østfold, Buskerud, Vestfold and Telemark",2024K3,2024,3,Total,151.8
+"Østfold, Buskerud, Vestfold and Telemark",2024K3,2024,3,Detached houses,150.9
+"Østfold, Buskerud, Vestfold and Telemark",2024K3,2024,3,Row houses,152.9
+"Østfold, Buskerud, Vestfold and Telemark",2024K3,2024,3,Multi-dwelling,154.4
+"Østfold, Buskerud, Vestfold and Telemark",2024K4,2024,4,Total,147.8
+"Østfold, Buskerud, Vestfold and Telemark",2024K4,2024,4,Detached houses,146.2
+"Østfold, Buskerud, Vestfold and Telemark",2024K4,2024,4,Row houses,149.5
+"Østfold, Buskerud, Vestfold and Telemark",2024K4,2024,4,Multi-dwelling,152.7
+"Østfold, Buskerud, Vestfold and Telemark",2025K1,2025,1,Total,154.7
+"Østfold, Buskerud, Vestfold and Telemark",2025K1,2025,1,Detached houses,153.8
+"Østfold, Buskerud, Vestfold and Telemark",2025K1,2025,1,Row houses,155.8
+"Østfold, Buskerud, Vestfold and Telemark",2025K1,2025,1,Multi-dwelling,157.5
+"Østfold, Buskerud, Vestfold and Telemark",2025K2,2025,2,Total,158.3
+"Østfold, Buskerud, Vestfold and Telemark",2025K2,2025,2,Detached houses,158.2
+"Østfold, Buskerud, Vestfold and Telemark",2025K2,2025,2,Row houses,157.5
+"Østfold, Buskerud, Vestfold and Telemark",2025K2,2025,2,Multi-dwelling,160.8
+"Østfold, Buskerud, Vestfold and Telemark",2025K3,2025,3,Total,156.3
+"Østfold, Buskerud, Vestfold and Telemark",2025K3,2025,3,Detached houses,154.8
+"Østfold, Buskerud, Vestfold and Telemark",2025K3,2025,3,Row houses,158.3
+"Østfold, Buskerud, Vestfold and Telemark",2025K3,2025,3,Multi-dwelling,160.2
+"Østfold, Buskerud, Vestfold and Telemark",2025K4,2025,4,Total,153.3
+"Østfold, Buskerud, Vestfold and Telemark",2025K4,2025,4,Detached houses,151.5
+"Østfold, Buskerud, Vestfold and Telemark",2025K4,2025,4,Row houses,155.6
+"Østfold, Buskerud, Vestfold and Telemark",2025K4,2025,4,Multi-dwelling,158.2
+"Østfold, Buskerud, Vestfold and Telemark",2026K1,2026,1,Total,156.3
+"Østfold, Buskerud, Vestfold and Telemark",2026K1,2026,1,Detached houses,155.1
+"Østfold, Buskerud, Vestfold and Telemark",2026K1,2026,1,Row houses,158.0
+"Østfold, Buskerud, Vestfold and Telemark",2026K1,2026,1,Multi-dwelling,159.6
+Innlandet,2015K1,2015,1,Total,98.5
+Innlandet,2015K1,2015,1,Detached houses,98.0
+Innlandet,2015K1,2015,1,Multi-dwelling,97.3
+Innlandet,2015K2,2015,2,Total,102.3
+Innlandet,2015K2,2015,2,Detached houses,102.2
+Innlandet,2015K2,2015,2,Multi-dwelling,101.7
+Innlandet,2015K3,2015,3,Total,100.4
+Innlandet,2015K3,2015,3,Detached houses,101.1
+Innlandet,2015K3,2015,3,Multi-dwelling,100.2
+Innlandet,2015K4,2015,4,Total,98.9
+Innlandet,2015K4,2015,4,Detached houses,98.8
+Innlandet,2015K4,2015,4,Multi-dwelling,100.8
+Innlandet,2016K1,2016,1,Total,101.1
+Innlandet,2016K1,2016,1,Detached houses,101.1
+Innlandet,2016K1,2016,1,Multi-dwelling,103.3
+Innlandet,2016K2,2016,2,Total,107.2
+Innlandet,2016K2,2016,2,Detached houses,106.5
+Innlandet,2016K2,2016,2,Multi-dwelling,106.3
+Innlandet,2016K3,2016,3,Total,109.3
+Innlandet,2016K3,2016,3,Detached houses,108.0
+Innlandet,2016K3,2016,3,Multi-dwelling,109.9
+Innlandet,2016K4,2016,4,Total,105.4
+Innlandet,2016K4,2016,4,Detached houses,103.6
+Innlandet,2016K4,2016,4,Multi-dwelling,110.9
+Innlandet,2017K1,2017,1,Total,111.5
+Innlandet,2017K1,2017,1,Detached houses,110.4
+Innlandet,2017K1,2017,1,Multi-dwelling,113.5
+Innlandet,2017K2,2017,2,Total,116.0
+Innlandet,2017K2,2017,2,Detached houses,115.5
+Innlandet,2017K2,2017,2,Multi-dwelling,120.2
+Innlandet,2017K3,2017,3,Total,114.3
+Innlandet,2017K3,2017,3,Detached houses,114.4
+Innlandet,2017K3,2017,3,Multi-dwelling,117.5
+Innlandet,2017K4,2017,4,Total,112.1
+Innlandet,2017K4,2017,4,Detached houses,110.3
+Innlandet,2017K4,2017,4,Multi-dwelling,118.7
+Innlandet,2018K1,2018,1,Total,114.5
+Innlandet,2018K1,2018,1,Detached houses,113.9
+Innlandet,2018K1,2018,1,Multi-dwelling,120.0
+Innlandet,2018K2,2018,2,Total,118.8
+Innlandet,2018K2,2018,2,Detached houses,117.5
+Innlandet,2018K2,2018,2,Multi-dwelling,122.3
+Innlandet,2018K3,2018,3,Total,119.4
+Innlandet,2018K3,2018,3,Detached houses,117.8
+Innlandet,2018K3,2018,3,Multi-dwelling,124.4
+Innlandet,2018K4,2018,4,Total,114.5
+Innlandet,2018K4,2018,4,Detached houses,111.3
+Innlandet,2018K4,2018,4,Multi-dwelling,125.6
+Innlandet,2019K1,2019,1,Total,118.5
+Innlandet,2019K1,2019,1,Detached houses,115.5
+Innlandet,2019K1,2019,1,Multi-dwelling,125.9
+Innlandet,2019K2,2019,2,Total,122.5
+Innlandet,2019K2,2019,2,Detached houses,120.7
+Innlandet,2019K2,2019,2,Multi-dwelling,127.7
+Innlandet,2019K3,2019,3,Total,119.4
+Innlandet,2019K3,2019,3,Detached houses,117.6
+Innlandet,2019K3,2019,3,Multi-dwelling,127.7
+Innlandet,2019K4,2019,4,Total,114.6
+Innlandet,2019K4,2019,4,Detached houses,112.3
+Innlandet,2019K4,2019,4,Multi-dwelling,128.2
+Innlandet,2020K1,2020,1,Total,119.2
+Innlandet,2020K1,2020,1,Detached houses,117.5
+Innlandet,2020K1,2020,1,Multi-dwelling,128.3
+Innlandet,2020K2,2020,2,Total,123.8
+Innlandet,2020K2,2020,2,Detached houses,122.8
+Innlandet,2020K2,2020,2,Multi-dwelling,131.3
+Innlandet,2020K3,2020,3,Total,125.8
+Innlandet,2020K3,2020,3,Detached houses,124.4
+Innlandet,2020K3,2020,3,Multi-dwelling,133.7
+Innlandet,2020K4,2020,4,Total,119.8
+Innlandet,2020K4,2020,4,Detached houses,116.9
+Innlandet,2020K4,2020,4,Multi-dwelling,134.4
+Innlandet,2021K1,2021,1,Total,131.5
+Innlandet,2021K1,2021,1,Detached houses,130.2
+Innlandet,2021K1,2021,1,Multi-dwelling,138.4
+Innlandet,2021K2,2021,2,Total,139.5
+Innlandet,2021K2,2021,2,Detached houses,138.9
+Innlandet,2021K2,2021,2,Multi-dwelling,143.9
+Innlandet,2021K3,2021,3,Total,135.8
+Innlandet,2021K3,2021,3,Detached houses,134.0
+Innlandet,2021K3,2021,3,Multi-dwelling,141.7
+Innlandet,2021K4,2021,4,Total,130.9
+Innlandet,2021K4,2021,4,Detached houses,129.5
+Innlandet,2021K4,2021,4,Multi-dwelling,141.2
+Innlandet,2022K1,2022,1,Total,139.9
+Innlandet,2022K1,2022,1,Detached houses,139.0
+Innlandet,2022K1,2022,1,Multi-dwelling,146.0
+Innlandet,2022K2,2022,2,Total,143.8
+Innlandet,2022K2,2022,2,Detached houses,142.6
+Innlandet,2022K2,2022,2,Multi-dwelling,149.2
+Innlandet,2022K3,2022,3,Total,143.8
+Innlandet,2022K3,2022,3,Detached houses,142.9
+Innlandet,2022K3,2022,3,Multi-dwelling,150.3
+Innlandet,2022K4,2022,4,Total,134.6
+Innlandet,2022K4,2022,4,Detached houses,132.8
+Innlandet,2022K4,2022,4,Multi-dwelling,145.8
+Innlandet,2023K1,2023,1,Total,138.7
+Innlandet,2023K1,2023,1,Detached houses,137.1
+Innlandet,2023K1,2023,1,Multi-dwelling,148.9
+Innlandet,2023K2,2023,2,Total,143.7
+Innlandet,2023K2,2023,2,Detached houses,142.6
+Innlandet,2023K2,2023,2,Multi-dwelling,148.3
+Innlandet,2023K3,2023,3,Total,138.2
+Innlandet,2023K3,2023,3,Detached houses,135.1
+Innlandet,2023K3,2023,3,Multi-dwelling,149.1
+Innlandet,2023K4,2023,4,Total,133.4
+Innlandet,2023K4,2023,4,Detached houses,131.5
+Innlandet,2023K4,2023,4,Multi-dwelling,143.0
+Innlandet,2024K1,2024,1,Total,139.6
+Innlandet,2024K1,2024,1,Detached houses,137.7
+Innlandet,2024K1,2024,1,Multi-dwelling,145.1
+Innlandet,2024K2,2024,2,Total,143.6
+Innlandet,2024K2,2024,2,Detached houses,141.9
+Innlandet,2024K2,2024,2,Multi-dwelling,152.8
+Innlandet,2024K3,2024,3,Total,137.9
+Innlandet,2024K3,2024,3,Detached houses,135.9
+Innlandet,2024K3,2024,3,Multi-dwelling,148.9
+Innlandet,2024K4,2024,4,Total,133.7
+Innlandet,2024K4,2024,4,Detached houses,129.8
+Innlandet,2024K4,2024,4,Multi-dwelling,148.7
+Innlandet,2025K1,2025,1,Total,143.3
+Innlandet,2025K1,2025,1,Detached houses,140.7
+Innlandet,2025K1,2025,1,Multi-dwelling,155.0
+Innlandet,2025K2,2025,2,Total,149.1
+Innlandet,2025K2,2025,2,Detached houses,148.5
+Innlandet,2025K2,2025,2,Multi-dwelling,154.3
+Innlandet,2025K3,2025,3,Total,144.4
+Innlandet,2025K3,2025,3,Detached houses,141.9
+Innlandet,2025K3,2025,3,Multi-dwelling,154.5
+Innlandet,2025K4,2025,4,Total,142.8
+Innlandet,2025K4,2025,4,Detached houses,140.5
+Innlandet,2025K4,2025,4,Multi-dwelling,155.6
+Innlandet,2026K1,2026,1,Total,144.4
+Innlandet,2026K1,2026,1,Detached houses,141.5
+Innlandet,2026K1,2026,1,Multi-dwelling,158.5
+Agder and Rogaland excluding Stavanger,2015K1,2015,1,Total,99.6
+Agder and Rogaland excluding Stavanger,2015K1,2015,1,Detached houses,99.2
+Agder and Rogaland excluding Stavanger,2015K1,2015,1,Row houses,100.1
+Agder and Rogaland excluding Stavanger,2015K1,2015,1,Multi-dwelling,101.8
+Agder and Rogaland excluding Stavanger,2015K2,2015,2,Total,101.8
+Agder and Rogaland excluding Stavanger,2015K2,2015,2,Detached houses,101.6
+Agder and Rogaland excluding Stavanger,2015K2,2015,2,Row houses,103.4
+Agder and Rogaland excluding Stavanger,2015K2,2015,2,Multi-dwelling,100.6
+Agder and Rogaland excluding Stavanger,2015K3,2015,3,Total,100.7
+Agder and Rogaland excluding Stavanger,2015K3,2015,3,Detached houses,100.9
+Agder and Rogaland excluding Stavanger,2015K3,2015,3,Row houses,100.2
+Agder and Rogaland excluding Stavanger,2015K3,2015,3,Multi-dwelling,99.6
+Agder and Rogaland excluding Stavanger,2015K4,2015,4,Total,97.9
+Agder and Rogaland excluding Stavanger,2015K4,2015,4,Detached houses,98.3
+Agder and Rogaland excluding Stavanger,2015K4,2015,4,Row houses,96.3
+Agder and Rogaland excluding Stavanger,2015K4,2015,4,Multi-dwelling,98.0
+Agder and Rogaland excluding Stavanger,2016K1,2016,1,Total,97.7
+Agder and Rogaland excluding Stavanger,2016K1,2016,1,Detached houses,96.8
+Agder and Rogaland excluding Stavanger,2016K1,2016,1,Row houses,100.7
+Agder and Rogaland excluding Stavanger,2016K1,2016,1,Multi-dwelling,99.1
+Agder and Rogaland excluding Stavanger,2016K2,2016,2,Total,101.1
+Agder and Rogaland excluding Stavanger,2016K2,2016,2,Detached houses,101.2
+Agder and Rogaland excluding Stavanger,2016K2,2016,2,Row houses,101.4
+Agder and Rogaland excluding Stavanger,2016K2,2016,2,Multi-dwelling,100.0
+Agder and Rogaland excluding Stavanger,2016K3,2016,3,Total,99.4
+Agder and Rogaland excluding Stavanger,2016K3,2016,3,Detached houses,99.1
+Agder and Rogaland excluding Stavanger,2016K3,2016,3,Row houses,99.2
+Agder and Rogaland excluding Stavanger,2016K3,2016,3,Multi-dwelling,101.7
+Agder and Rogaland excluding Stavanger,2016K4,2016,4,Total,97.9
+Agder and Rogaland excluding Stavanger,2016K4,2016,4,Detached houses,97.6
+Agder and Rogaland excluding Stavanger,2016K4,2016,4,Row houses,98.1
+Agder and Rogaland excluding Stavanger,2016K4,2016,4,Multi-dwelling,99.6
+Agder and Rogaland excluding Stavanger,2017K1,2017,1,Total,100.4
+Agder and Rogaland excluding Stavanger,2017K1,2017,1,Detached houses,100.0
+Agder and Rogaland excluding Stavanger,2017K1,2017,1,Row houses,101.0
+Agder and Rogaland excluding Stavanger,2017K1,2017,1,Multi-dwelling,102.0
+Agder and Rogaland excluding Stavanger,2017K2,2017,2,Total,101.3
+Agder and Rogaland excluding Stavanger,2017K2,2017,2,Detached houses,101.2
+Agder and Rogaland excluding Stavanger,2017K2,2017,2,Row houses,101.5
+Agder and Rogaland excluding Stavanger,2017K2,2017,2,Multi-dwelling,101.7
+Agder and Rogaland excluding Stavanger,2017K3,2017,3,Total,100.0
+Agder and Rogaland excluding Stavanger,2017K3,2017,3,Detached houses,100.1
+Agder and Rogaland excluding Stavanger,2017K3,2017,3,Row houses,99.0
+Agder and Rogaland excluding Stavanger,2017K3,2017,3,Multi-dwelling,101.3
+Agder and Rogaland excluding Stavanger,2017K4,2017,4,Total,98.8
+Agder and Rogaland excluding Stavanger,2017K4,2017,4,Detached houses,98.1
+Agder and Rogaland excluding Stavanger,2017K4,2017,4,Row houses,100.1
+Agder and Rogaland excluding Stavanger,2017K4,2017,4,Multi-dwelling,101.1
+Agder and Rogaland excluding Stavanger,2018K1,2018,1,Total,98.3
+Agder and Rogaland excluding Stavanger,2018K1,2018,1,Detached houses,98.3
+Agder and Rogaland excluding Stavanger,2018K1,2018,1,Row houses,97.4
+Agder and Rogaland excluding Stavanger,2018K1,2018,1,Multi-dwelling,100.4
+Agder and Rogaland excluding Stavanger,2018K2,2018,2,Total,102.9
+Agder and Rogaland excluding Stavanger,2018K2,2018,2,Detached houses,102.9
+Agder and Rogaland excluding Stavanger,2018K2,2018,2,Row houses,103.0
+Agder and Rogaland excluding Stavanger,2018K2,2018,2,Multi-dwelling,102.4
+Agder and Rogaland excluding Stavanger,2018K3,2018,3,Total,100.9
+Agder and Rogaland excluding Stavanger,2018K3,2018,3,Detached houses,100.6
+Agder and Rogaland excluding Stavanger,2018K3,2018,3,Row houses,100.5
+Agder and Rogaland excluding Stavanger,2018K3,2018,3,Multi-dwelling,103.8
+Agder and Rogaland excluding Stavanger,2018K4,2018,4,Total,99.2
+Agder and Rogaland excluding Stavanger,2018K4,2018,4,Detached houses,98.9
+Agder and Rogaland excluding Stavanger,2018K4,2018,4,Row houses,100.4
+Agder and Rogaland excluding Stavanger,2018K4,2018,4,Multi-dwelling,99.5
+Agder and Rogaland excluding Stavanger,2019K1,2019,1,Total,99.6
+Agder and Rogaland excluding Stavanger,2019K1,2019,1,Detached houses,99.2
+Agder and Rogaland excluding Stavanger,2019K1,2019,1,Row houses,99.7
+Agder and Rogaland excluding Stavanger,2019K1,2019,1,Multi-dwelling,102.5
+Agder and Rogaland excluding Stavanger,2019K2,2019,2,Total,104.2
+Agder and Rogaland excluding Stavanger,2019K2,2019,2,Detached houses,105.1
+Agder and Rogaland excluding Stavanger,2019K2,2019,2,Row houses,101.3
+Agder and Rogaland excluding Stavanger,2019K2,2019,2,Multi-dwelling,103.7
+Agder and Rogaland excluding Stavanger,2019K3,2019,3,Total,102.9
+Agder and Rogaland excluding Stavanger,2019K3,2019,3,Detached houses,103.1
+Agder and Rogaland excluding Stavanger,2019K3,2019,3,Row houses,102.3
+Agder and Rogaland excluding Stavanger,2019K3,2019,3,Multi-dwelling,102.9
+Agder and Rogaland excluding Stavanger,2019K4,2019,4,Total,99.6
+Agder and Rogaland excluding Stavanger,2019K4,2019,4,Detached houses,99.5
+Agder and Rogaland excluding Stavanger,2019K4,2019,4,Row houses,99.3
+Agder and Rogaland excluding Stavanger,2019K4,2019,4,Multi-dwelling,101.2
+Agder and Rogaland excluding Stavanger,2020K1,2020,1,Total,100.4
+Agder and Rogaland excluding Stavanger,2020K1,2020,1,Detached houses,99.3
+Agder and Rogaland excluding Stavanger,2020K1,2020,1,Row houses,103.3
+Agder and Rogaland excluding Stavanger,2020K1,2020,1,Multi-dwelling,103.0
+Agder and Rogaland excluding Stavanger,2020K2,2020,2,Total,106.5
+Agder and Rogaland excluding Stavanger,2020K2,2020,2,Detached houses,107.0
+Agder and Rogaland excluding Stavanger,2020K2,2020,2,Row houses,105.8
+Agder and Rogaland excluding Stavanger,2020K2,2020,2,Multi-dwelling,104.4
+Agder and Rogaland excluding Stavanger,2020K3,2020,3,Total,105.3
+Agder and Rogaland excluding Stavanger,2020K3,2020,3,Detached houses,105.3
+Agder and Rogaland excluding Stavanger,2020K3,2020,3,Row houses,104.9
+Agder and Rogaland excluding Stavanger,2020K3,2020,3,Multi-dwelling,106.9
+Agder and Rogaland excluding Stavanger,2020K4,2020,4,Total,104.8
+Agder and Rogaland excluding Stavanger,2020K4,2020,4,Detached houses,105.0
+Agder and Rogaland excluding Stavanger,2020K4,2020,4,Row houses,104.7
+Agder and Rogaland excluding Stavanger,2020K4,2020,4,Multi-dwelling,103.9
+Agder and Rogaland excluding Stavanger,2021K1,2021,1,Total,110.2
+Agder and Rogaland excluding Stavanger,2021K1,2021,1,Detached houses,110.2
+Agder and Rogaland excluding Stavanger,2021K1,2021,1,Row houses,111.3
+Agder and Rogaland excluding Stavanger,2021K1,2021,1,Multi-dwelling,108.6
+Agder and Rogaland excluding Stavanger,2021K2,2021,2,Total,117.8
+Agder and Rogaland excluding Stavanger,2021K2,2021,2,Detached houses,118.8
+Agder and Rogaland excluding Stavanger,2021K2,2021,2,Row houses,116.4
+Agder and Rogaland excluding Stavanger,2021K2,2021,2,Multi-dwelling,114.0
+Agder and Rogaland excluding Stavanger,2021K3,2021,3,Total,116.9
+Agder and Rogaland excluding Stavanger,2021K3,2021,3,Detached houses,118.0
+Agder and Rogaland excluding Stavanger,2021K3,2021,3,Row houses,115.1
+Agder and Rogaland excluding Stavanger,2021K3,2021,3,Multi-dwelling,113.8
+Agder and Rogaland excluding Stavanger,2021K4,2021,4,Total,112.3
+Agder and Rogaland excluding Stavanger,2021K4,2021,4,Detached houses,111.9
+Agder and Rogaland excluding Stavanger,2021K4,2021,4,Row houses,113.4
+Agder and Rogaland excluding Stavanger,2021K4,2021,4,Multi-dwelling,112.6
+Agder and Rogaland excluding Stavanger,2022K1,2022,1,Total,118.2
+Agder and Rogaland excluding Stavanger,2022K1,2022,1,Detached houses,117.5
+Agder and Rogaland excluding Stavanger,2022K1,2022,1,Row houses,119.8
+Agder and Rogaland excluding Stavanger,2022K1,2022,1,Multi-dwelling,119.6
+Agder and Rogaland excluding Stavanger,2022K2,2022,2,Total,125.7
+Agder and Rogaland excluding Stavanger,2022K2,2022,2,Detached houses,126.9
+Agder and Rogaland excluding Stavanger,2022K2,2022,2,Row houses,123.2
+Agder and Rogaland excluding Stavanger,2022K2,2022,2,Multi-dwelling,122.6
+Agder and Rogaland excluding Stavanger,2022K3,2022,3,Total,125.3
+Agder and Rogaland excluding Stavanger,2022K3,2022,3,Detached houses,125.4
+Agder and Rogaland excluding Stavanger,2022K3,2022,3,Row houses,125.7
+Agder and Rogaland excluding Stavanger,2022K3,2022,3,Multi-dwelling,124.1
+Agder and Rogaland excluding Stavanger,2022K4,2022,4,Total,119.9
+Agder and Rogaland excluding Stavanger,2022K4,2022,4,Detached houses,118.6
+Agder and Rogaland excluding Stavanger,2022K4,2022,4,Row houses,123.1
+Agder and Rogaland excluding Stavanger,2022K4,2022,4,Multi-dwelling,122.5
+Agder and Rogaland excluding Stavanger,2023K1,2023,1,Total,122.9
+Agder and Rogaland excluding Stavanger,2023K1,2023,1,Detached houses,120.9
+Agder and Rogaland excluding Stavanger,2023K1,2023,1,Row houses,127.2
+Agder and Rogaland excluding Stavanger,2023K1,2023,1,Multi-dwelling,128.3
+Agder and Rogaland excluding Stavanger,2023K2,2023,2,Total,129.7
+Agder and Rogaland excluding Stavanger,2023K2,2023,2,Detached houses,129.2
+Agder and Rogaland excluding Stavanger,2023K2,2023,2,Row houses,129.3
+Agder and Rogaland excluding Stavanger,2023K2,2023,2,Multi-dwelling,133.2
+Agder and Rogaland excluding Stavanger,2023K3,2023,3,Total,128.1
+Agder and Rogaland excluding Stavanger,2023K3,2023,3,Detached houses,127.7
+Agder and Rogaland excluding Stavanger,2023K3,2023,3,Row houses,127.9
+Agder and Rogaland excluding Stavanger,2023K3,2023,3,Multi-dwelling,130.5
+Agder and Rogaland excluding Stavanger,2023K4,2023,4,Total,122.8
+Agder and Rogaland excluding Stavanger,2023K4,2023,4,Detached houses,121.0
+Agder and Rogaland excluding Stavanger,2023K4,2023,4,Row houses,126.5
+Agder and Rogaland excluding Stavanger,2023K4,2023,4,Multi-dwelling,128.6
+Agder and Rogaland excluding Stavanger,2024K1,2024,1,Total,126.8
+Agder and Rogaland excluding Stavanger,2024K1,2024,1,Detached houses,124.7
+Agder and Rogaland excluding Stavanger,2024K1,2024,1,Row houses,132.1
+Agder and Rogaland excluding Stavanger,2024K1,2024,1,Multi-dwelling,131.1
+Agder and Rogaland excluding Stavanger,2024K2,2024,2,Total,134.8
+Agder and Rogaland excluding Stavanger,2024K2,2024,2,Detached houses,134.6
+Agder and Rogaland excluding Stavanger,2024K2,2024,2,Row houses,134.2
+Agder and Rogaland excluding Stavanger,2024K2,2024,2,Multi-dwelling,136.5
+Agder and Rogaland excluding Stavanger,2024K3,2024,3,Total,136.4
+Agder and Rogaland excluding Stavanger,2024K3,2024,3,Detached houses,136.2
+Agder and Rogaland excluding Stavanger,2024K3,2024,3,Row houses,134.4
+Agder and Rogaland excluding Stavanger,2024K3,2024,3,Multi-dwelling,139.9
+Agder and Rogaland excluding Stavanger,2024K4,2024,4,Total,131.4
+Agder and Rogaland excluding Stavanger,2024K4,2024,4,Detached houses,129.4
+Agder and Rogaland excluding Stavanger,2024K4,2024,4,Row houses,134.8
+Agder and Rogaland excluding Stavanger,2024K4,2024,4,Multi-dwelling,138.5
+Agder and Rogaland excluding Stavanger,2025K1,2025,1,Total,141.2
+Agder and Rogaland excluding Stavanger,2025K1,2025,1,Detached houses,139.1
+Agder and Rogaland excluding Stavanger,2025K1,2025,1,Row houses,142.8
+Agder and Rogaland excluding Stavanger,2025K1,2025,1,Multi-dwelling,151.0
+Agder and Rogaland excluding Stavanger,2025K2,2025,2,Total,145.4
+Agder and Rogaland excluding Stavanger,2025K2,2025,2,Detached houses,143.9
+Agder and Rogaland excluding Stavanger,2025K2,2025,2,Row houses,147.2
+Agder and Rogaland excluding Stavanger,2025K2,2025,2,Multi-dwelling,152.0
+Agder and Rogaland excluding Stavanger,2025K3,2025,3,Total,147.4
+Agder and Rogaland excluding Stavanger,2025K3,2025,3,Detached houses,145.4
+Agder and Rogaland excluding Stavanger,2025K3,2025,3,Row houses,150.8
+Agder and Rogaland excluding Stavanger,2025K3,2025,3,Multi-dwelling,154.2
+Agder and Rogaland excluding Stavanger,2025K4,2025,4,Total,144.5
+Agder and Rogaland excluding Stavanger,2025K4,2025,4,Detached houses,142.0
+Agder and Rogaland excluding Stavanger,2025K4,2025,4,Row houses,147.9
+Agder and Rogaland excluding Stavanger,2025K4,2025,4,Multi-dwelling,153.4
+Agder and Rogaland excluding Stavanger,2026K1,2026,1,Total,152.2
+Agder and Rogaland excluding Stavanger,2026K1,2026,1,Detached houses,150.0
+Agder and Rogaland excluding Stavanger,2026K1,2026,1,Row houses,155.7
+Agder and Rogaland excluding Stavanger,2026K1,2026,1,Multi-dwelling,159.9
+Møre og Romsdal and Vestland excluding Bergen,2015K1,2015,1,Total,98.8
+Møre og Romsdal and Vestland excluding Bergen,2015K1,2015,1,Detached houses,98.8
+Møre og Romsdal and Vestland excluding Bergen,2015K1,2015,1,Row houses,98.6
+Møre og Romsdal and Vestland excluding Bergen,2015K1,2015,1,Multi-dwelling,99.2
+Møre og Romsdal and Vestland excluding Bergen,2015K2,2015,2,Total,104.0
+Møre og Romsdal and Vestland excluding Bergen,2015K2,2015,2,Detached houses,104.7
+Møre og Romsdal and Vestland excluding Bergen,2015K2,2015,2,Row houses,102.3
+Møre og Romsdal and Vestland excluding Bergen,2015K2,2015,2,Multi-dwelling,101.1
+Møre og Romsdal and Vestland excluding Bergen,2015K3,2015,3,Total,100.4
+Møre og Romsdal and Vestland excluding Bergen,2015K3,2015,3,Detached houses,100.6
+Møre og Romsdal and Vestland excluding Bergen,2015K3,2015,3,Row houses,99.3
+Møre og Romsdal and Vestland excluding Bergen,2015K3,2015,3,Multi-dwelling,100.1
+Møre og Romsdal and Vestland excluding Bergen,2015K4,2015,4,Total,96.9
+Møre og Romsdal and Vestland excluding Bergen,2015K4,2015,4,Detached houses,95.9
+Møre og Romsdal and Vestland excluding Bergen,2015K4,2015,4,Row houses,99.8
+Møre og Romsdal and Vestland excluding Bergen,2015K4,2015,4,Multi-dwelling,99.6
+Møre og Romsdal and Vestland excluding Bergen,2016K1,2016,1,Total,103.2
+Møre og Romsdal and Vestland excluding Bergen,2016K1,2016,1,Detached houses,103.4
+Møre og Romsdal and Vestland excluding Bergen,2016K1,2016,1,Row houses,103.5
+Møre og Romsdal and Vestland excluding Bergen,2016K1,2016,1,Multi-dwelling,99.2
+Møre og Romsdal and Vestland excluding Bergen,2016K2,2016,2,Total,103.6
+Møre og Romsdal and Vestland excluding Bergen,2016K2,2016,2,Detached houses,103.4
+Møre og Romsdal and Vestland excluding Bergen,2016K2,2016,2,Row houses,105.1
+Møre og Romsdal and Vestland excluding Bergen,2016K2,2016,2,Multi-dwelling,101.4
+Møre og Romsdal and Vestland excluding Bergen,2016K3,2016,3,Total,106.1
+Møre og Romsdal and Vestland excluding Bergen,2016K3,2016,3,Detached houses,106.2
+Møre og Romsdal and Vestland excluding Bergen,2016K3,2016,3,Row houses,107.0
+Møre og Romsdal and Vestland excluding Bergen,2016K3,2016,3,Multi-dwelling,100.8
+Møre og Romsdal and Vestland excluding Bergen,2016K4,2016,4,Total,101.3
+Møre og Romsdal and Vestland excluding Bergen,2016K4,2016,4,Detached houses,101.2
+Møre og Romsdal and Vestland excluding Bergen,2016K4,2016,4,Row houses,101.8
+Møre og Romsdal and Vestland excluding Bergen,2016K4,2016,4,Multi-dwelling,101.1
+Møre og Romsdal and Vestland excluding Bergen,2017K1,2017,1,Total,105.1
+Møre og Romsdal and Vestland excluding Bergen,2017K1,2017,1,Detached houses,105.0
+Møre og Romsdal and Vestland excluding Bergen,2017K1,2017,1,Row houses,105.4
+Møre og Romsdal and Vestland excluding Bergen,2017K1,2017,1,Multi-dwelling,104.1
+Møre og Romsdal and Vestland excluding Bergen,2017K2,2017,2,Total,108.0
+Møre og Romsdal and Vestland excluding Bergen,2017K2,2017,2,Detached houses,108.3
+Møre og Romsdal and Vestland excluding Bergen,2017K2,2017,2,Row houses,108.1
+Møre og Romsdal and Vestland excluding Bergen,2017K2,2017,2,Multi-dwelling,103.8
+Møre og Romsdal and Vestland excluding Bergen,2017K3,2017,3,Total,104.8
+Møre og Romsdal and Vestland excluding Bergen,2017K3,2017,3,Detached houses,105.4
+Møre og Romsdal and Vestland excluding Bergen,2017K3,2017,3,Row houses,103.4
+Møre og Romsdal and Vestland excluding Bergen,2017K3,2017,3,Multi-dwelling,102.9
+Møre og Romsdal and Vestland excluding Bergen,2017K4,2017,4,Total,101.5
+Møre og Romsdal and Vestland excluding Bergen,2017K4,2017,4,Detached houses,101.7
+Møre og Romsdal and Vestland excluding Bergen,2017K4,2017,4,Row houses,101.6
+Møre og Romsdal and Vestland excluding Bergen,2017K4,2017,4,Multi-dwelling,99.4
+Møre og Romsdal and Vestland excluding Bergen,2018K1,2018,1,Total,105.3
+Møre og Romsdal and Vestland excluding Bergen,2018K1,2018,1,Detached houses,105.8
+Møre og Romsdal and Vestland excluding Bergen,2018K1,2018,1,Row houses,105.2
+Møre og Romsdal and Vestland excluding Bergen,2018K1,2018,1,Multi-dwelling,100.3
+Møre og Romsdal and Vestland excluding Bergen,2018K2,2018,2,Total,110.8
+Møre og Romsdal and Vestland excluding Bergen,2018K2,2018,2,Detached houses,111.7
+Møre og Romsdal and Vestland excluding Bergen,2018K2,2018,2,Row houses,109.7
+Møre og Romsdal and Vestland excluding Bergen,2018K2,2018,2,Multi-dwelling,104.2
+Møre og Romsdal and Vestland excluding Bergen,2018K3,2018,3,Total,106.0
+Møre og Romsdal and Vestland excluding Bergen,2018K3,2018,3,Detached houses,105.4
+Møre og Romsdal and Vestland excluding Bergen,2018K3,2018,3,Row houses,107.9
+Møre og Romsdal and Vestland excluding Bergen,2018K3,2018,3,Multi-dwelling,106.0
+Møre og Romsdal and Vestland excluding Bergen,2018K4,2018,4,Total,102.7
+Møre og Romsdal and Vestland excluding Bergen,2018K4,2018,4,Detached houses,101.4
+Møre og Romsdal and Vestland excluding Bergen,2018K4,2018,4,Row houses,107.4
+Møre og Romsdal and Vestland excluding Bergen,2018K4,2018,4,Multi-dwelling,101.7
+Møre og Romsdal and Vestland excluding Bergen,2019K1,2019,1,Total,104.7
+Møre og Romsdal and Vestland excluding Bergen,2019K1,2019,1,Detached houses,104.5
+Møre og Romsdal and Vestland excluding Bergen,2019K1,2019,1,Row houses,104.7
+Møre og Romsdal and Vestland excluding Bergen,2019K1,2019,1,Multi-dwelling,106.2
+Møre og Romsdal and Vestland excluding Bergen,2019K2,2019,2,Total,110.9
+Møre og Romsdal and Vestland excluding Bergen,2019K2,2019,2,Detached houses,111.4
+Møre og Romsdal and Vestland excluding Bergen,2019K2,2019,2,Row houses,110.7
+Møre og Romsdal and Vestland excluding Bergen,2019K2,2019,2,Multi-dwelling,105.1
+Møre og Romsdal and Vestland excluding Bergen,2019K3,2019,3,Total,107.3
+Møre og Romsdal and Vestland excluding Bergen,2019K3,2019,3,Detached houses,106.8
+Møre og Romsdal and Vestland excluding Bergen,2019K3,2019,3,Row houses,109.3
+Møre og Romsdal and Vestland excluding Bergen,2019K3,2019,3,Multi-dwelling,104.3
+Møre og Romsdal and Vestland excluding Bergen,2019K4,2019,4,Total,106.3
+Møre og Romsdal and Vestland excluding Bergen,2019K4,2019,4,Detached houses,105.9
+Møre og Romsdal and Vestland excluding Bergen,2019K4,2019,4,Row houses,107.6
+Møre og Romsdal and Vestland excluding Bergen,2019K4,2019,4,Multi-dwelling,105.5
+Møre og Romsdal and Vestland excluding Bergen,2020K1,2020,1,Total,106.1
+Møre og Romsdal and Vestland excluding Bergen,2020K1,2020,1,Detached houses,104.0
+Møre og Romsdal and Vestland excluding Bergen,2020K1,2020,1,Row houses,111.8
+Møre og Romsdal and Vestland excluding Bergen,2020K1,2020,1,Multi-dwelling,108.6
+Møre og Romsdal and Vestland excluding Bergen,2020K2,2020,2,Total,110.6
+Møre og Romsdal and Vestland excluding Bergen,2020K2,2020,2,Detached houses,109.7
+Møre og Romsdal and Vestland excluding Bergen,2020K2,2020,2,Row houses,113.1
+Møre og Romsdal and Vestland excluding Bergen,2020K2,2020,2,Multi-dwelling,111.3
+Møre og Romsdal and Vestland excluding Bergen,2020K3,2020,3,Total,111.1
+Møre og Romsdal and Vestland excluding Bergen,2020K3,2020,3,Detached houses,109.9
+Møre og Romsdal and Vestland excluding Bergen,2020K3,2020,3,Row houses,114.4
+Møre og Romsdal and Vestland excluding Bergen,2020K3,2020,3,Multi-dwelling,111.3
+Møre og Romsdal and Vestland excluding Bergen,2020K4,2020,4,Total,109.9
+Møre og Romsdal and Vestland excluding Bergen,2020K4,2020,4,Detached houses,108.4
+Møre og Romsdal and Vestland excluding Bergen,2020K4,2020,4,Row houses,113.6
+Møre og Romsdal and Vestland excluding Bergen,2020K4,2020,4,Multi-dwelling,113.6
+Møre og Romsdal and Vestland excluding Bergen,2021K1,2021,1,Total,113.5
+Møre og Romsdal and Vestland excluding Bergen,2021K1,2021,1,Detached houses,112.1
+Møre og Romsdal and Vestland excluding Bergen,2021K1,2021,1,Row houses,117.3
+Møre og Romsdal and Vestland excluding Bergen,2021K1,2021,1,Multi-dwelling,115.0
+Møre og Romsdal and Vestland excluding Bergen,2021K2,2021,2,Total,120.6
+Møre og Romsdal and Vestland excluding Bergen,2021K2,2021,2,Detached houses,120.9
+Møre og Romsdal and Vestland excluding Bergen,2021K2,2021,2,Row houses,119.6
+Møre og Romsdal and Vestland excluding Bergen,2021K2,2021,2,Multi-dwelling,118.2
+Møre og Romsdal and Vestland excluding Bergen,2021K3,2021,3,Total,121.7
+Møre og Romsdal and Vestland excluding Bergen,2021K3,2021,3,Detached houses,121.6
+Møre og Romsdal and Vestland excluding Bergen,2021K3,2021,3,Row houses,123.6
+Møre og Romsdal and Vestland excluding Bergen,2021K3,2021,3,Multi-dwelling,115.9
+Møre og Romsdal and Vestland excluding Bergen,2021K4,2021,4,Total,118.5
+Møre og Romsdal and Vestland excluding Bergen,2021K4,2021,4,Detached houses,117.5
+Møre og Romsdal and Vestland excluding Bergen,2021K4,2021,4,Row houses,120.9
+Møre og Romsdal and Vestland excluding Bergen,2021K4,2021,4,Multi-dwelling,119.4
+Møre og Romsdal and Vestland excluding Bergen,2022K1,2022,1,Total,121.8
+Møre og Romsdal and Vestland excluding Bergen,2022K1,2022,1,Detached houses,119.1
+Møre og Romsdal and Vestland excluding Bergen,2022K1,2022,1,Row houses,129.4
+Møre og Romsdal and Vestland excluding Bergen,2022K1,2022,1,Multi-dwelling,125.1
+Møre og Romsdal and Vestland excluding Bergen,2022K2,2022,2,Total,131.6
+Møre og Romsdal and Vestland excluding Bergen,2022K2,2022,2,Detached houses,132.0
+Møre og Romsdal and Vestland excluding Bergen,2022K2,2022,2,Row houses,131.0
+Møre og Romsdal and Vestland excluding Bergen,2022K2,2022,2,Multi-dwelling,127.6
+Møre og Romsdal and Vestland excluding Bergen,2022K3,2022,3,Total,129.5
+Møre og Romsdal and Vestland excluding Bergen,2022K3,2022,3,Detached houses,128.2
+Møre og Romsdal and Vestland excluding Bergen,2022K3,2022,3,Row houses,133.4
+Møre og Romsdal and Vestland excluding Bergen,2022K3,2022,3,Multi-dwelling,129.2
+Møre og Romsdal and Vestland excluding Bergen,2022K4,2022,4,Total,128.3
+Møre og Romsdal and Vestland excluding Bergen,2022K4,2022,4,Detached houses,126.0
+Møre og Romsdal and Vestland excluding Bergen,2022K4,2022,4,Row houses,133.7
+Møre og Romsdal and Vestland excluding Bergen,2022K4,2022,4,Multi-dwelling,133.8
+Møre og Romsdal and Vestland excluding Bergen,2023K1,2023,1,Total,127.7
+Møre og Romsdal and Vestland excluding Bergen,2023K1,2023,1,Detached houses,125.5
+Møre og Romsdal and Vestland excluding Bergen,2023K1,2023,1,Row houses,134.6
+Møre og Romsdal and Vestland excluding Bergen,2023K1,2023,1,Multi-dwelling,127.1
+Møre og Romsdal and Vestland excluding Bergen,2023K2,2023,2,Total,132.7
+Møre og Romsdal and Vestland excluding Bergen,2023K2,2023,2,Detached houses,131.6
+Møre og Romsdal and Vestland excluding Bergen,2023K2,2023,2,Row houses,135.3
+Møre og Romsdal and Vestland excluding Bergen,2023K2,2023,2,Multi-dwelling,133.6
+Møre og Romsdal and Vestland excluding Bergen,2023K3,2023,3,Total,129.9
+Møre og Romsdal and Vestland excluding Bergen,2023K3,2023,3,Detached houses,128.2
+Møre og Romsdal and Vestland excluding Bergen,2023K3,2023,3,Row houses,133.7
+Møre og Romsdal and Vestland excluding Bergen,2023K3,2023,3,Multi-dwelling,133.1
+Møre og Romsdal and Vestland excluding Bergen,2023K4,2023,4,Total,123.4
+Møre og Romsdal and Vestland excluding Bergen,2023K4,2023,4,Detached houses,120.3
+Møre og Romsdal and Vestland excluding Bergen,2023K4,2023,4,Row houses,130.9
+Møre og Romsdal and Vestland excluding Bergen,2023K4,2023,4,Multi-dwelling,129.7
+Møre og Romsdal and Vestland excluding Bergen,2024K1,2024,1,Total,129.4
+Møre og Romsdal and Vestland excluding Bergen,2024K1,2024,1,Detached houses,126.3
+Møre og Romsdal and Vestland excluding Bergen,2024K1,2024,1,Row houses,138.3
+Møre og Romsdal and Vestland excluding Bergen,2024K1,2024,1,Multi-dwelling,132.1
+Møre og Romsdal and Vestland excluding Bergen,2024K2,2024,2,Total,133.8
+Møre og Romsdal and Vestland excluding Bergen,2024K2,2024,2,Detached houses,132.0
+Møre og Romsdal and Vestland excluding Bergen,2024K2,2024,2,Row houses,138.2
+Møre og Romsdal and Vestland excluding Bergen,2024K2,2024,2,Multi-dwelling,136.5
+Møre og Romsdal and Vestland excluding Bergen,2024K3,2024,3,Total,134.5
+Møre og Romsdal and Vestland excluding Bergen,2024K3,2024,3,Detached houses,131.8
+Møre og Romsdal and Vestland excluding Bergen,2024K3,2024,3,Row houses,142.0
+Møre og Romsdal and Vestland excluding Bergen,2024K3,2024,3,Multi-dwelling,137.7
+Møre og Romsdal and Vestland excluding Bergen,2024K4,2024,4,Total,133.3
+Møre og Romsdal and Vestland excluding Bergen,2024K4,2024,4,Detached houses,130.9
+Møre og Romsdal and Vestland excluding Bergen,2024K4,2024,4,Row houses,139.4
+Møre og Romsdal and Vestland excluding Bergen,2024K4,2024,4,Multi-dwelling,137.5
+Møre og Romsdal and Vestland excluding Bergen,2025K1,2025,1,Total,137.1
+Møre og Romsdal and Vestland excluding Bergen,2025K1,2025,1,Detached houses,135.0
+Møre og Romsdal and Vestland excluding Bergen,2025K1,2025,1,Row houses,142.4
+Møre og Romsdal and Vestland excluding Bergen,2025K1,2025,1,Multi-dwelling,140.9
+Møre og Romsdal and Vestland excluding Bergen,2025K2,2025,2,Total,140.7
+Møre og Romsdal and Vestland excluding Bergen,2025K2,2025,2,Detached houses,138.0
+Møre og Romsdal and Vestland excluding Bergen,2025K2,2025,2,Row houses,147.7
+Møre og Romsdal and Vestland excluding Bergen,2025K2,2025,2,Multi-dwelling,144.2
+Møre og Romsdal and Vestland excluding Bergen,2025K3,2025,3,Total,141.5
+Møre og Romsdal and Vestland excluding Bergen,2025K3,2025,3,Detached houses,139.3
+Møre og Romsdal and Vestland excluding Bergen,2025K3,2025,3,Row houses,146.9
+Møre og Romsdal and Vestland excluding Bergen,2025K3,2025,3,Multi-dwelling,145.7
+Møre og Romsdal and Vestland excluding Bergen,2025K4,2025,4,Total,140.3
+Møre og Romsdal and Vestland excluding Bergen,2025K4,2025,4,Detached houses,137.8
+Møre og Romsdal and Vestland excluding Bergen,2025K4,2025,4,Row houses,146.1
+Møre og Romsdal and Vestland excluding Bergen,2025K4,2025,4,Multi-dwelling,145.5
+Møre og Romsdal and Vestland excluding Bergen,2026K1,2026,1,Total,146.3
+Møre og Romsdal and Vestland excluding Bergen,2026K1,2026,1,Detached houses,144.1
+Møre og Romsdal and Vestland excluding Bergen,2026K1,2026,1,Row houses,151.4
+Møre og Romsdal and Vestland excluding Bergen,2026K1,2026,1,Multi-dwelling,150.5
+Trøndelag exluding Trondheim,2015K1,2015,1,Total,96.6
+Trøndelag exluding Trondheim,2015K1,2015,1,Detached houses,96.2
+Trøndelag exluding Trondheim,2015K1,2015,1,Multi-dwelling,100.8
+Trøndelag exluding Trondheim,2015K2,2015,2,Total,103.4
+Trøndelag exluding Trondheim,2015K2,2015,2,Detached houses,102.9
+Trøndelag exluding Trondheim,2015K2,2015,2,Multi-dwelling,98.1
+Trøndelag exluding Trondheim,2015K3,2015,3,Total,101.3
+Trøndelag exluding Trondheim,2015K3,2015,3,Detached houses,100.6
+Trøndelag exluding Trondheim,2015K3,2015,3,Multi-dwelling,102.7
+Trøndelag exluding Trondheim,2015K4,2015,4,Total,98.7
+Trøndelag exluding Trondheim,2015K4,2015,4,Detached houses,100.3
+Trøndelag exluding Trondheim,2015K4,2015,4,Multi-dwelling,98.3
+Trøndelag exluding Trondheim,2016K1,2016,1,Total,102.6
+Trøndelag exluding Trondheim,2016K1,2016,1,Detached houses,102.3
+Trøndelag exluding Trondheim,2016K1,2016,1,Multi-dwelling,103.1
+Trøndelag exluding Trondheim,2016K2,2016,2,Total,107.8
+Trøndelag exluding Trondheim,2016K2,2016,2,Detached houses,107.9
+Trøndelag exluding Trondheim,2016K2,2016,2,Multi-dwelling,105.1
+Trøndelag exluding Trondheim,2016K3,2016,3,Total,106.2
+Trøndelag exluding Trondheim,2016K3,2016,3,Detached houses,106.5
+Trøndelag exluding Trondheim,2016K3,2016,3,Multi-dwelling,105.6
+Trøndelag exluding Trondheim,2016K4,2016,4,Total,104.5
+Trøndelag exluding Trondheim,2016K4,2016,4,Detached houses,103.6
+Trøndelag exluding Trondheim,2016K4,2016,4,Multi-dwelling,107.9
+Trøndelag exluding Trondheim,2017K1,2017,1,Total,106.6
+Trøndelag exluding Trondheim,2017K1,2017,1,Detached houses,104.4
+Trøndelag exluding Trondheim,2017K1,2017,1,Multi-dwelling,110.3
+Trøndelag exluding Trondheim,2017K2,2017,2,Total,109.8
+Trøndelag exluding Trondheim,2017K2,2017,2,Detached houses,109.7
+Trøndelag exluding Trondheim,2017K2,2017,2,Multi-dwelling,105.4
+Trøndelag exluding Trondheim,2017K3,2017,3,Total,107.9
+Trøndelag exluding Trondheim,2017K3,2017,3,Detached houses,106.5
+Trøndelag exluding Trondheim,2017K3,2017,3,Multi-dwelling,107.7
+Trøndelag exluding Trondheim,2017K4,2017,4,Total,110.6
+Trøndelag exluding Trondheim,2017K4,2017,4,Detached houses,110.3
+Trøndelag exluding Trondheim,2017K4,2017,4,Multi-dwelling,109.8
+Trøndelag exluding Trondheim,2018K1,2018,1,Total,106.4
+Trøndelag exluding Trondheim,2018K1,2018,1,Detached houses,105.3
+Trøndelag exluding Trondheim,2018K1,2018,1,Multi-dwelling,111.6
+Trøndelag exluding Trondheim,2018K2,2018,2,Total,111.3
+Trøndelag exluding Trondheim,2018K2,2018,2,Detached houses,109.6
+Trøndelag exluding Trondheim,2018K2,2018,2,Multi-dwelling,113.3
+Trøndelag exluding Trondheim,2018K3,2018,3,Total,110.4
+Trøndelag exluding Trondheim,2018K3,2018,3,Detached houses,110.7
+Trøndelag exluding Trondheim,2018K3,2018,3,Multi-dwelling,108.9
+Trøndelag exluding Trondheim,2018K4,2018,4,Total,106.9
+Trøndelag exluding Trondheim,2018K4,2018,4,Detached houses,104.3
+Trøndelag exluding Trondheim,2018K4,2018,4,Multi-dwelling,109.9
+Trøndelag exluding Trondheim,2019K1,2019,1,Total,106.4
+Trøndelag exluding Trondheim,2019K1,2019,1,Detached houses,106.2
+Trøndelag exluding Trondheim,2019K1,2019,1,Multi-dwelling,111.5
+Trøndelag exluding Trondheim,2019K2,2019,2,Total,113.0
+Trøndelag exluding Trondheim,2019K2,2019,2,Detached houses,111.6
+Trøndelag exluding Trondheim,2019K2,2019,2,Multi-dwelling,114.8
+Trøndelag exluding Trondheim,2019K3,2019,3,Total,111.1
+Trøndelag exluding Trondheim,2019K3,2019,3,Detached houses,109.0
+Trøndelag exluding Trondheim,2019K3,2019,3,Multi-dwelling,120.3
+Trøndelag exluding Trondheim,2019K4,2019,4,Total,107.2
+Trøndelag exluding Trondheim,2019K4,2019,4,Detached houses,105.0
+Trøndelag exluding Trondheim,2019K4,2019,4,Multi-dwelling,114.6
+Trøndelag exluding Trondheim,2020K1,2020,1,Total,110.1
+Trøndelag exluding Trondheim,2020K1,2020,1,Detached houses,107.8
+Trøndelag exluding Trondheim,2020K1,2020,1,Multi-dwelling,114.0
+Trøndelag exluding Trondheim,2020K2,2020,2,Total,112.2
+Trøndelag exluding Trondheim,2020K2,2020,2,Detached houses,110.9
+Trøndelag exluding Trondheim,2020K2,2020,2,Multi-dwelling,118.5
+Trøndelag exluding Trondheim,2020K3,2020,3,Total,116.0
+Trøndelag exluding Trondheim,2020K3,2020,3,Detached houses,114.1
+Trøndelag exluding Trondheim,2020K3,2020,3,Multi-dwelling,120.1
+Trøndelag exluding Trondheim,2020K4,2020,4,Total,116.6
+Trøndelag exluding Trondheim,2020K4,2020,4,Detached houses,115.7
+Trøndelag exluding Trondheim,2020K4,2020,4,Multi-dwelling,119.5
+Trøndelag exluding Trondheim,2021K1,2021,1,Total,119.3
+Trøndelag exluding Trondheim,2021K1,2021,1,Detached houses,115.7
+Trøndelag exluding Trondheim,2021K1,2021,1,Multi-dwelling,124.4
+Trøndelag exluding Trondheim,2021K2,2021,2,Total,124.4
+Trøndelag exluding Trondheim,2021K2,2021,2,Detached houses,123.4
+Trøndelag exluding Trondheim,2021K2,2021,2,Multi-dwelling,125.5
+Trøndelag exluding Trondheim,2021K3,2021,3,Total,126.2
+Trøndelag exluding Trondheim,2021K3,2021,3,Detached houses,124.8
+Trøndelag exluding Trondheim,2021K3,2021,3,Multi-dwelling,126.1
+Trøndelag exluding Trondheim,2021K4,2021,4,Total,128.1
+Trøndelag exluding Trondheim,2021K4,2021,4,Detached houses,126.8
+Trøndelag exluding Trondheim,2021K4,2021,4,Multi-dwelling,134.8
+Trøndelag exluding Trondheim,2022K1,2022,1,Total,128.7
+Trøndelag exluding Trondheim,2022K1,2022,1,Detached houses,127.1
+Trøndelag exluding Trondheim,2022K1,2022,1,Multi-dwelling,133.8
+Trøndelag exluding Trondheim,2022K2,2022,2,Total,136.2
+Trøndelag exluding Trondheim,2022K2,2022,2,Detached houses,135.1
+Trøndelag exluding Trondheim,2022K2,2022,2,Multi-dwelling,137.0
+Trøndelag exluding Trondheim,2022K3,2022,3,Total,131.5
+Trøndelag exluding Trondheim,2022K3,2022,3,Detached houses,129.7
+Trøndelag exluding Trondheim,2022K3,2022,3,Multi-dwelling,141.9
+Trøndelag exluding Trondheim,2022K4,2022,4,Total,129.6
+Trøndelag exluding Trondheim,2022K4,2022,4,Detached houses,130.4
+Trøndelag exluding Trondheim,2022K4,2022,4,Multi-dwelling,140.3
+Trøndelag exluding Trondheim,2023K1,2023,1,Total,129.2
+Trøndelag exluding Trondheim,2023K1,2023,1,Detached houses,127.5
+Trøndelag exluding Trondheim,2023K1,2023,1,Multi-dwelling,140.2
+Trøndelag exluding Trondheim,2023K2,2023,2,Total,139.1
+Trøndelag exluding Trondheim,2023K2,2023,2,Detached houses,137.2
+Trøndelag exluding Trondheim,2023K2,2023,2,Multi-dwelling,139.0
+Trøndelag exluding Trondheim,2023K3,2023,3,Total,133.1
+Trøndelag exluding Trondheim,2023K3,2023,3,Detached houses,130.2
+Trøndelag exluding Trondheim,2023K3,2023,3,Multi-dwelling,137.1
+Trøndelag exluding Trondheim,2023K4,2023,4,Total,130.1
+Trøndelag exluding Trondheim,2023K4,2023,4,Detached houses,127.9
+Trøndelag exluding Trondheim,2023K4,2023,4,Multi-dwelling,140.1
+Trøndelag exluding Trondheim,2024K1,2024,1,Total,133.2
+Trøndelag exluding Trondheim,2024K1,2024,1,Detached houses,131.1
+Trøndelag exluding Trondheim,2024K1,2024,1,Multi-dwelling,142.3
+Trøndelag exluding Trondheim,2024K2,2024,2,Total,138.0
+Trøndelag exluding Trondheim,2024K2,2024,2,Detached houses,135.3
+Trøndelag exluding Trondheim,2024K2,2024,2,Multi-dwelling,143.5
+Trøndelag exluding Trondheim,2024K3,2024,3,Total,136.8
+Trøndelag exluding Trondheim,2024K3,2024,3,Detached houses,135.2
+Trøndelag exluding Trondheim,2024K3,2024,3,Multi-dwelling,140.6
+Trøndelag exluding Trondheim,2024K4,2024,4,Total,131.2
+Trøndelag exluding Trondheim,2024K4,2024,4,Detached houses,127.9
+Trøndelag exluding Trondheim,2024K4,2024,4,Multi-dwelling,144.3
+Trøndelag exluding Trondheim,2025K1,2025,1,Total,133.6
+Trøndelag exluding Trondheim,2025K1,2025,1,Detached houses,129.6
+Trøndelag exluding Trondheim,2025K1,2025,1,Multi-dwelling,145.3
+Trøndelag exluding Trondheim,2025K2,2025,2,Total,141.6
+Trøndelag exluding Trondheim,2025K2,2025,2,Detached houses,139.0
+Trøndelag exluding Trondheim,2025K2,2025,2,Multi-dwelling,143.9
+Trøndelag exluding Trondheim,2025K3,2025,3,Total,139.1
+Trøndelag exluding Trondheim,2025K3,2025,3,Detached houses,134.9
+Trøndelag exluding Trondheim,2025K3,2025,3,Multi-dwelling,147.0
+Trøndelag exluding Trondheim,2025K4,2025,4,Total,133.1
+Trøndelag exluding Trondheim,2025K4,2025,4,Detached houses,129.9
+Trøndelag exluding Trondheim,2025K4,2025,4,Multi-dwelling,145.6
+Trøndelag exluding Trondheim,2026K1,2026,1,Total,138.1
+Trøndelag exluding Trondheim,2026K1,2026,1,Detached houses,134.0
+Trøndelag exluding Trondheim,2026K1,2026,1,Multi-dwelling,152.4
+Nord-Norge,2015K1,2015,1,Total,98.9
+Nord-Norge,2015K1,2015,1,Detached houses,98.6
+Nord-Norge,2015K1,2015,1,Multi-dwelling,98.4
+Nord-Norge,2015K2,2015,2,Total,102.2
+Nord-Norge,2015K2,2015,2,Detached houses,103.0
+Nord-Norge,2015K2,2015,2,Multi-dwelling,101.6
+Nord-Norge,2015K3,2015,3,Total,100.8
+Nord-Norge,2015K3,2015,3,Detached houses,99.7
+Nord-Norge,2015K3,2015,3,Multi-dwelling,100.7
+Nord-Norge,2015K4,2015,4,Total,98.1
+Nord-Norge,2015K4,2015,4,Detached houses,98.6
+Nord-Norge,2015K4,2015,4,Multi-dwelling,99.3
+Nord-Norge,2016K1,2016,1,Total,104.1
+Nord-Norge,2016K1,2016,1,Detached houses,104.3
+Nord-Norge,2016K1,2016,1,Multi-dwelling,103.4
+Nord-Norge,2016K2,2016,2,Total,110.8
+Nord-Norge,2016K2,2016,2,Detached houses,112.6
+Nord-Norge,2016K2,2016,2,Multi-dwelling,106.4
+Nord-Norge,2016K3,2016,3,Total,108.6
+Nord-Norge,2016K3,2016,3,Detached houses,107.0
+Nord-Norge,2016K3,2016,3,Multi-dwelling,106.5
+Nord-Norge,2016K4,2016,4,Total,109.6
+Nord-Norge,2016K4,2016,4,Detached houses,111.4
+Nord-Norge,2016K4,2016,4,Multi-dwelling,107.2
+Nord-Norge,2017K1,2017,1,Total,111.8
+Nord-Norge,2017K1,2017,1,Detached houses,112.0
+Nord-Norge,2017K1,2017,1,Multi-dwelling,113.0
+Nord-Norge,2017K2,2017,2,Total,115.8
+Nord-Norge,2017K2,2017,2,Detached houses,117.7
+Nord-Norge,2017K2,2017,2,Multi-dwelling,112.4
+Nord-Norge,2017K3,2017,3,Total,113.1
+Nord-Norge,2017K3,2017,3,Detached houses,113.5
+Nord-Norge,2017K3,2017,3,Multi-dwelling,112.2
+Nord-Norge,2017K4,2017,4,Total,110.7
+Nord-Norge,2017K4,2017,4,Detached houses,111.4
+Nord-Norge,2017K4,2017,4,Multi-dwelling,110.6
+Nord-Norge,2018K1,2018,1,Total,112.9
+Nord-Norge,2018K1,2018,1,Detached houses,114.2
+Nord-Norge,2018K1,2018,1,Multi-dwelling,113.1
+Nord-Norge,2018K2,2018,2,Total,117.0
+Nord-Norge,2018K2,2018,2,Detached houses,118.1
+Nord-Norge,2018K2,2018,2,Multi-dwelling,115.4
+Nord-Norge,2018K3,2018,3,Total,117.1
+Nord-Norge,2018K3,2018,3,Detached houses,117.5
+Nord-Norge,2018K3,2018,3,Multi-dwelling,117.3
+Nord-Norge,2018K4,2018,4,Total,113.5
+Nord-Norge,2018K4,2018,4,Detached houses,113.5
+Nord-Norge,2018K4,2018,4,Multi-dwelling,115.9
+Nord-Norge,2019K1,2019,1,Total,119.4
+Nord-Norge,2019K1,2019,1,Detached houses,120.4
+Nord-Norge,2019K1,2019,1,Multi-dwelling,118.2
+Nord-Norge,2019K2,2019,2,Total,120.6
+Nord-Norge,2019K2,2019,2,Detached houses,121.8
+Nord-Norge,2019K2,2019,2,Multi-dwelling,120.6
+Nord-Norge,2019K3,2019,3,Total,118.7
+Nord-Norge,2019K3,2019,3,Detached houses,121.1
+Nord-Norge,2019K3,2019,3,Multi-dwelling,118.3
+Nord-Norge,2019K4,2019,4,Total,116.0
+Nord-Norge,2019K4,2019,4,Detached houses,116.8
+Nord-Norge,2019K4,2019,4,Multi-dwelling,119.1
+Nord-Norge,2020K1,2020,1,Total,119.0
+Nord-Norge,2020K1,2020,1,Detached houses,119.0
+Nord-Norge,2020K1,2020,1,Multi-dwelling,120.0
+Nord-Norge,2020K2,2020,2,Total,123.0
+Nord-Norge,2020K2,2020,2,Detached houses,124.4
+Nord-Norge,2020K2,2020,2,Multi-dwelling,122.6
+Nord-Norge,2020K3,2020,3,Total,126.7
+Nord-Norge,2020K3,2020,3,Detached houses,126.4
+Nord-Norge,2020K3,2020,3,Multi-dwelling,126.0
+Nord-Norge,2020K4,2020,4,Total,120.6
+Nord-Norge,2020K4,2020,4,Detached houses,119.2
+Nord-Norge,2020K4,2020,4,Multi-dwelling,125.8
+Nord-Norge,2021K1,2021,1,Total,130.2
+Nord-Norge,2021K1,2021,1,Detached houses,130.2
+Nord-Norge,2021K1,2021,1,Multi-dwelling,130.7
+Nord-Norge,2021K2,2021,2,Total,137.1
+Nord-Norge,2021K2,2021,2,Detached houses,138.4
+Nord-Norge,2021K2,2021,2,Multi-dwelling,134.0
+Nord-Norge,2021K3,2021,3,Total,135.6
+Nord-Norge,2021K3,2021,3,Detached houses,135.1
+Nord-Norge,2021K3,2021,3,Multi-dwelling,136.1
+Nord-Norge,2021K4,2021,4,Total,134.9
+Nord-Norge,2021K4,2021,4,Detached houses,136.0
+Nord-Norge,2021K4,2021,4,Multi-dwelling,134.5
+Nord-Norge,2022K1,2022,1,Total,141.3
+Nord-Norge,2022K1,2022,1,Detached houses,140.8
+Nord-Norge,2022K1,2022,1,Multi-dwelling,142.1
+Nord-Norge,2022K2,2022,2,Total,147.3
+Nord-Norge,2022K2,2022,2,Detached houses,149.5
+Nord-Norge,2022K2,2022,2,Multi-dwelling,141.9
+Nord-Norge,2022K3,2022,3,Total,143.1
+Nord-Norge,2022K3,2022,3,Detached houses,143.9
+Nord-Norge,2022K3,2022,3,Multi-dwelling,142.9
+Nord-Norge,2022K4,2022,4,Total,138.4
+Nord-Norge,2022K4,2022,4,Detached houses,140.3
+Nord-Norge,2022K4,2022,4,Multi-dwelling,139.6
+Nord-Norge,2023K1,2023,1,Total,141.6
+Nord-Norge,2023K1,2023,1,Detached houses,142.5
+Nord-Norge,2023K1,2023,1,Multi-dwelling,141.1
+Nord-Norge,2023K2,2023,2,Total,146.5
+Nord-Norge,2023K2,2023,2,Detached houses,150.4
+Nord-Norge,2023K2,2023,2,Multi-dwelling,143.1
+Nord-Norge,2023K3,2023,3,Total,141.5
+Nord-Norge,2023K3,2023,3,Detached houses,141.7
+Nord-Norge,2023K3,2023,3,Multi-dwelling,140.9
+Nord-Norge,2023K4,2023,4,Total,132.0
+Nord-Norge,2023K4,2023,4,Detached houses,133.0
+Nord-Norge,2023K4,2023,4,Multi-dwelling,134.6
+Nord-Norge,2024K1,2024,1,Total,138.2
+Nord-Norge,2024K1,2024,1,Detached houses,140.1
+Nord-Norge,2024K1,2024,1,Multi-dwelling,139.3
+Nord-Norge,2024K2,2024,2,Total,147.4
+Nord-Norge,2024K2,2024,2,Detached houses,150.5
+Nord-Norge,2024K2,2024,2,Multi-dwelling,143.2
+Nord-Norge,2024K3,2024,3,Total,143.5
+Nord-Norge,2024K3,2024,3,Detached houses,145.7
+Nord-Norge,2024K3,2024,3,Multi-dwelling,142.5
+Nord-Norge,2024K4,2024,4,Total,138.8
+Nord-Norge,2024K4,2024,4,Detached houses,137.0
+Nord-Norge,2024K4,2024,4,Multi-dwelling,143.2
+Nord-Norge,2025K1,2025,1,Total,146.4
+Nord-Norge,2025K1,2025,1,Detached houses,145.6
+Nord-Norge,2025K1,2025,1,Multi-dwelling,149.7
+Nord-Norge,2025K2,2025,2,Total,152.8
+Nord-Norge,2025K2,2025,2,Detached houses,153.8
+Nord-Norge,2025K2,2025,2,Multi-dwelling,153.6
+Nord-Norge,2025K3,2025,3,Total,151.3
+Nord-Norge,2025K3,2025,3,Detached houses,152.9
+Nord-Norge,2025K3,2025,3,Multi-dwelling,154.1
+Nord-Norge,2025K4,2025,4,Total,149.1
+Nord-Norge,2025K4,2025,4,Detached houses,147.3
+Nord-Norge,2025K4,2025,4,Multi-dwelling,154.4
+Nord-Norge,2026K1,2026,1,Total,154.9
+Nord-Norge,2026K1,2026,1,Detached houses,154.4
+Nord-Norge,2026K1,2026,1,Multi-dwelling,162.3

@@ -5,7 +5,8 @@
 ## What This Project Does
 Analysis of the Norwegian housing market using official SSB data.
 Built to demonstrate BI Analyst skills relevant to proptech 
-and real estate marketplace companies like Hjem.no.
+and real estate marketplace 
+![Dashboard](dashboard.png)
 
 ## Key Findings
 
